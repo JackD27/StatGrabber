@@ -63,6 +63,8 @@ def fileGrabber():
         finalFrame.loc[finalFrame['LID'] == "9", 'League'] = 'NFL'
         finalFrame.loc[finalFrame['LID'] == "157", 'League'] = 'DISC'
         finalFrame.loc[finalFrame['LID'] == "230", 'League'] = 'LAX'
+        finalFrame.loc[finalFrame['LID'] == "159", 'League'] = 'VAL'
+        finalFrame.loc[finalFrame['LID'] == "172", 'League'] = 'CFBFUT'
         #endregion
         finalFrame = finalFrame.sort_values(by=['League'])
         finalFrame = finalFrame[['LID', 'Projection Type', 'Stat Type', 'Name','OverUnder', 'League']]

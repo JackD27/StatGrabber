@@ -1,1008 +1,906 @@
 LID,Projection Type,Stat Type,Name,OverUnder,League
-11,Single Stat,Receptions,Emmanuel Arceneaux,3.0,CFL
-11,Single Stat,Receiving Yards,Emmanuel Arceneaux,35.5,CFL
-11,Fantasy Score,Fantasy Score,Emmanuel Arceneaux,7.5,CFL
-11,Fantasy Score,Fantasy Score,Nathan Rourke,18.5,CFL
-11,Single Stat,Pass Yards,Nathan Rourke,265.5,CFL
-11,Single Stat,Rush Yards,Nathan Rourke,25.5,CFL
-11,Single Stat,Pass Yards,Mcleod Bethel-Thompson,255.5,CFL
-11,Fantasy Score,Fantasy Score,Mcleod Bethel-Thompson,15.5,CFL
-11,Single Stat,Receptions,Lucky Whitehead,5.5,CFL
-11,Single Stat,Receiving Yards,Lucky Whitehead,80.5,CFL
-11,Single Stat,Receiving Yards,Brandon Banks,45.5,CFL
-11,Fantasy Score,Fantasy Score,Brandon Banks,13.5,CFL
-11,Single Stat,Receptions,Brandon Banks,4.5,CFL
-11,Fantasy Score,Fantasy Score,Bryan Burnham,11.5,CFL
-11,Single Stat,Receiving Yards,Bryan Burnham,45.5,CFL
-11,Single Stat,Receptions,Bryan Burnham,4.5,CFL
-11,Single Stat,Receptions,DaVaris Daniels,4.0,CFL
-11,Fantasy Score,Fantasy Score,DaVaris Daniels,12.5,CFL
-11,Single Stat,Receiving Yards,DaVaris Daniels,50.5,CFL
-11,Single Stat,Receptions,Dominique Rhymes,3.5,CFL
-11,Fantasy Score,Fantasy Score,Richie Sindani,10.5,CFL
-11,Single Stat,Receiving Yards,Dominique Rhymes,39.5,CFL
-11,Single Stat,Receptions,Richie Sindani,4.5,CFL
-11,Fantasy Score,Fantasy Score,Derel Walker,14.5,CFL
-11,Fantasy Score,Fantasy Score,Bo Levi Mitchell,14.5,CFL
-11,Single Stat,Pass Yards,Bo Levi Mitchell,230.5,CFL
-11,Fantasy Score,Fantasy Score,Nick Arbuckle,13.5,CFL
-11,Single Stat,Pass Yards,Nick Arbuckle,260.5,CFL
-11,Fantasy Score,Fantasy Score,Ka'Deem Carey,15.5,CFL
-11,Single Stat,Rush Yards,Ka'Deem Carey,70.5,CFL
-11,Fantasy Score,Fantasy Score,James Wilder Jr,13.5,CFL
-11,Single Stat,Rush Yards,James Wilder Jr,49.5,CFL
-11,Single Stat,Receiving Yards,Reggie Begelton,45.5,CFL
-11,Fantasy Score,Fantasy Score,Reggie Begelton,10.5,CFL
-11,Single Stat,Receptions,Reggie Begelton,5.0,CFL
-11,Single Stat,Receptions,Kenny Lawler,5.5,CFL
-11,Single Stat,Receiving Yards,Kenny Lawler,70.5,CFL
-11,Fantasy Score,Fantasy Score,Kenny Lawler,14.5,CFL
-11,Single Stat,Receiving Yards,Kamar Jorden,50.5,CFL
-11,Single Stat,Receptions,Kamar Jorden,5.5,CFL
-11,Fantasy Score,Fantasy Score,Kamar Jorden,13.5,CFL
-11,Single Stat,Receiving Yards,Derel Walker,65.5,CFL
-11,Single Stat,Receptions,Derel Walker,5.5,CFL
-11,Single Stat,Receiving Yards,Richie Sindani,45.5,CFL
-11,Fantasy Score,Fantasy Score,Dominique Rhymes,9.5,CFL
-11,Fantasy Score,Fantasy Score,Lucky Whitehead,16.5,CFL
-145,Single Stat,Kills,CleanX,60.5,CoD
-145,Single Stat,Kills,Standy,58.5,CoD
-145,Single Stat,Kills,Nero,54.5,CoD
-145,Single Stat,Kills,Owakening,60.5,CoD
-145,Single Stat,Kills,Simp,58.5,CoD
-145,Single Stat,Kills,Envoy,53.5,CoD
-145,Single Stat,Kills,Kenny,54.5,CoD
-145,Single Stat,Kills,Scump,59.5,CoD
-145,Single Stat,Kills,Attach,60.5,CoD
-145,Single Stat,Kills,HyDra,61.5,CoD
-145,Single Stat,Kills,Huke,55.5,CoD
-145,Single Stat,Kills,Afro,54.5,CoD
-145,Single Stat,Kills,Temp,61.5,CoD
-145,Single Stat,Kills,Mack,59.5,CoD
-157,Single Stat,Strokes,Adam Hammes,59.0,DISC
-157,Single Stat,Strokes,Kevin Jones,58.5,DISC
-157,Single Stat,Hole 16 Shots,Lisa Fajkus,2.5,DISC
-157,Single Stat,Hole 16 Shots,Ohn Scoggins,2.5,DISC
-157,Single Stat,Strokes,Paige Pierce,60.5,DISC
-157,Single Stat,Strokes,Calvin Heimburg,56.0,DISC
-157,Single Stat,Strokes,James Conrad,57.5,DISC
-157,Single Stat,Hole 4 Shots,James Conrad,3.5,DISC
-157,Single Stat,Strokes,Evaliina Salonen,64.5,DISC
-157,Single Stat,Hole 4 Shots,Calvin Heimburg,3.5,DISC
-157,Single Stat,Strokes,Ricky Wysocki,56.0,DISC
-157,Single Stat,Hole 4 Shots,Simon Lizotte,3.5,DISC
-157,Single Stat,Strokes,Simon Lizotte,56.5,DISC
-157,Single Stat,Hole 16 Shots,Emily Beach,2.5,DISC
-157,Single Stat,Hole 16 Shots,Catrina Allen,2.5,DISC
-157,Single Stat,Strokes,Catrina Allen,61.0,DISC
-157,Single Stat,Strokes,Hailey King,64.5,DISC
-157,Single Stat,Strokes,Kyle Klein,57.5,DISC
-157,Single Stat,Strokes,Ohn Scoggins,63.0,DISC
-157,Single Stat,Strokes,Garrett Gurthie,57.5,DISC
-157,Single Stat,Strokes,Brodie Smith,61.0,DISC
-157,Single Stat,Hole 4 Shots,Paul McBeth,3.5,DISC
-157,Single Stat,Strokes,Ezra Aderhold,58.0,DISC
-157,Single Stat,Strokes,Gannon Buhr,57.0,DISC
-157,Single Stat,Strokes,Paul McBeth,56.5,DISC
-82,Single Stat,Shots,Chris Mueller,2.0,FIFA
-82,Single Stat,Goals Allowed,Bo Zhao,1.5,FIFA
-82,Single Stat,Goalie Saves,Bo Zhao,3.0,FIFA
-82,Single Stat,Shots On Target,Taxiarchis Fountas,1.5,FIFA
-82,Single Stat,Shots,Asmir Kajevic,0.5,FIFA
-82,Single Stat,Shots,Song Yue,0.5,FIFA
-82,Single Stat,Shots,Nicolas Lodeiro,1.5,FIFA
-82,Single Stat,Shots On Target,Nicolas Lodeiro,0.5,FIFA
-82,Single Stat,Shots,Bruno Viana,0.5,FIFA
-82,Single Stat,Shots,Linpeng Zhang,0.5,FIFA
-82,Single Stat,Shots On Target,Chris Mueller,0.5,FIFA
-82,Single Stat,Shots,Paulinho,2.0,FIFA
-82,Single Stat,Shots,Luiz Araujo,3.5,FIFA
-82,Single Stat,Shots,Ang Li,0.5,FIFA
-82,Single Stat,Shots,Yun Liu,0.5,FIFA
-82,Single Stat,Shots,Mirahmetjan Muzepper,0.5,FIFA
-82,Single Stat,Shots,Hu Jinghang,1.0,FIFA
-82,Single Stat,Shots,Felicio Brown Forbes,2.0,FIFA
-82,Single Stat,Shots,Liu Zhurun ,1.0,FIFA
-82,Single Stat,Shots,Cryzan,2.0,FIFA
-82,Single Stat,Shots,Ulrich Ewolo,1.0,FIFA
-82,Single Stat,Shots,Ethan Finlay,0.5,FIFA
-82,Single Stat,Shots,Alan Velasco,2.0,FIFA
-82,Single Stat,Shots,Long Song,0.5,FIFA
-82,Single Stat,Shots,Bin Gu,1.0,FIFA
-82,Single Stat,Shots,Alexander Ring,1.5,FIFA
-82,Single Stat,Goalie Saves,Dalei Wang,2.0,FIFA
-82,Single Stat,Goals Allowed,Dalei Wang,0.5,FIFA
-82,Single Stat,Shots,Taxiarchis Fountas,3.5,FIFA
-82,Single Stat,Shots On Target,Charles Sapong,0.5,FIFA
-82,Single Stat,Goals Allowed,Puliang Shao,1.5,FIFA
-82,Single Stat,Shots On Target,Luiz Araujo,1.5,FIFA
-82,Single Stat,Shots,Quiming Wang,1.0,FIFA
-82,Single Stat,Goalie Saves,Sen Hou,1.5,FIFA
-82,Single Stat,Goals Allowed,Sen Hou,0.5,FIFA
-82,Single Stat,Shots,Jesus Jimenez,1.5,FIFA
-82,Single Stat,Shots On Target,Jesus Jimenez,0.5,FIFA
-82,Single Stat,Shots,Ronaldo Cisneros,2.5,FIFA
-82,Single Stat,Shots On Target,Ronaldo Cisneros,1.0,FIFA
-82,Single Stat,Shots,Yilin Yang,1.0,FIFA
-82,Single Stat,Shots,Ayo Akinola,1.5,FIFA
-82,Single Stat,Goalie Saves,Puliang Shao,3.5,FIFA
-82,Single Stat,Shots On Target,Ayo Akinola,0.5,FIFA
-82,Single Stat,Shots,Li Shuai,0.5,FIFA
-82,Single Stat,Shots,Farley Rosa,2.5,FIFA
-82,Single Stat,Shots On Target,Daniel Rios,0.5,FIFA
-82,Single Stat,Shots,Daniel Rios,1.5,FIFA
-82,Single Stat,Shots,Yingjie Zhao,1.0,FIFA
-82,Single Stat,Goals Allowed,Hou Yu,1.0,FIFA
-82,Single Stat,Goalie Saves,Hou Yu,2.5,FIFA
-82,Single Stat,Shots On Target,Xherdan Shaqiri,0.5,FIFA
-82,Single Stat,Shots,Xherdan Shaqiri,2.0,FIFA
-82,Single Stat,Goals Allowed,Zhifend Wang,1.5,FIFA
-82,Single Stat,Goalie Saves,Zhifend Wang,3.0,FIFA
-82,Single Stat,Shots On Target,Ariel Lassiter,0.5,FIFA
-82,Single Stat,Shots,David Andujar,0.5,FIFA
-82,Single Stat,Shots,Charles Sapong,1.5,FIFA
-82,Single Stat,Shots,Ariel Lassiter,2.0,FIFA
-82,Single Stat,Shots,Paul Arriola,2.0,FIFA
-82,Single Stat,Shots,Son Jun ho,1.0,FIFA
-82,Single Stat,Shots,Darwin Quintero,2.0,FIFA
-82,Single Stat,Shots,Jesus Ferreira,2.5,FIFA
-82,Single Stat,Shots,Andy Najar,0.5,FIFA
-82,Single Stat,Shots,Dax McCarty,0.5,FIFA
-82,Single Stat,Shots,Brad Smith,0.5,FIFA
-82,Single Stat,Shots,Daniel Lovitz,0.5,FIFA
-82,Single Stat,Goals Allowed,Stefan Frei,1.0,FIFA
-82,Single Stat,Goals Allowed,Tim Melia,1.5,FIFA
-82,Single Stat,Goals Allowed,Rafael Romo,1.0,FIFA
-82,Single Stat,Goals Allowed,Quentin Westberg,1.5,FIFA
-82,Single Stat,Goals Allowed,Rocco Rios Novo,1.0,FIFA
-82,Single Stat,Goals Allowed,Sebastian Breza,1.0,FIFA
-82,Single Stat,Goals Allowed,Kristijan Kahlina,1.5,FIFA
-82,Single Stat,Goals Allowed,Drake Callender,1.0,FIFA
-82,Single Stat,Goals Allowed,Steve Clark,1.0,FIFA
-82,Single Stat,Goals Allowed,Maarten Paes,1.5,FIFA
-82,Single Stat,Shots,Alejandro Pozuelo,1.0,FIFA
-82,Single Stat,Goals Allowed,Eloy Room,1.5,FIFA
-82,Single Stat,Shots,Jordan Morris,2.0,FIFA
-82,Single Stat,Shots,Daniel Salloi,2.5,FIFA
-82,Single Stat,Shots,Fredy Montero,2.0,FIFA
-82,Single Stat,Shots,Johnny Russell,2.0,FIFA
-82,Single Stat,Shots,Khiry Shelton,1.0,FIFA
-82,Single Stat,Shots,Felipe Hernandez,1.0,FIFA
-82,Single Stat,Shots,Albert Rusnak,1.0,FIFA
-82,Single Stat,Shots,Yeimar Gomez,0.5,FIFA
-82,Single Stat,Shots,Dave Romney,0.5,FIFA
-82,Single Stat,Shots,Sofiane Djeffal,0.5,FIFA
-82,Single Stat,Shots,Tah Anunga,0.5,FIFA
-82,Single Stat,Shots,Russell Canouse,0.5,FIFA
-82,Single Stat,Shots,Julian Gressel,1.0,FIFA
-82,Single Stat,Shots,Alex Muyl,1.0,FIFA
-82,Single Stat,Goals Allowed,William Yarbrough,1.5,FIFA
-82,Single Stat,Shots,Romell Quioto,2.0,FIFA
-82,Single Stat,Shots,Marcelino Moreno,2.0,FIFA
-82,Single Stat,Shots,Jayden Nelson,1.0,FIFA
-82,Single Stat,Goalie Saves,Jiamin Xu,3.0,FIFA
-82,Single Stat,Shots,Sebastian Driussi,2.5,FIFA
-82,Single Stat,Shots,Bryce Duke,1.0,FIFA
-82,Single Stat,Goalie Saves,Junling Yan,2.5,FIFA
-82,Single Stat,Shots,Franco Fragapane,1.0,FIFA
-82,Single Stat,Shots,Memo Rodriguez,1.5,FIFA
-82,Single Stat,Shots,Luis Amarilla,2.0,FIFA
-82,Single Stat,Shots,Jingdao Jin,1.0,FIFA
-82,Single Stat,Shots,Miguel Navarro,0.5,FIFA
-82,Single Stat,Shots,Sebastian Ferreira,2.0,FIFA
-82,Single Stat,Shots,Emanuel Reynoso,2.0,FIFA
-82,Single Stat,Shots,Leonardo Campana,2.0,FIFA
-82,Single Stat,Shots,Federico Navarro,0.5,FIFA
-82,Single Stat,Shots,Nyasha Mushekwi,2.0,FIFA
-82,Single Stat,Shots,Robin Lod,2.5,FIFA
-82,Single Stat,Shots,Gastón Giménez,1.5,FIFA
-82,Single Stat,Shots,Binbin Liu,1.0,FIFA
-82,Single Stat,Shots,Alan Franco,0.5,FIFA
-82,Single Stat,Shots,Deandre Kerr,1.0,FIFA
-82,Single Stat,Shots,Karol Swiderski,2.5,FIFA
-82,Single Stat,Shots,Hany Mukhtar,3.5,FIFA
-82,Single Stat,Shots,Joel Waterman,0.5,FIFA
-82,Single Stat,Shots,Andre Shinyashiki,2.0,FIFA
-82,Single Stat,Shots,Maximiliano Urruti,2.5,FIFA
-82,Single Stat,Shots,Michael Bradley,0.5,FIFA
-82,Single Stat,Shots,Luca Petrasso,0.5,FIFA
-82,Single Stat,Shots,Jordy Alcivar,1.0,FIFA
-82,Single Stat,Shots,Ben Bender,1.0,FIFA
-82,Single Stat,Shots,Paxton Pomykal,0.5,FIFA
-82,Single Stat,Shots,Kacper Przybylko,2.0,FIFA
-82,Single Stat,Shots,Orrin McKinze Gaines II.,1.0,FIFA
-82,Single Stat,Shots,Guzmán Corujo,0.5,FIFA
-82,Single Stat,Shots On Target,Hany Mukhtar,1.5,FIFA
-82,Single Stat,Goals,Josef Martínez,0.5,FIFA
-82,Single Stat,Shots,Cristian Roldan,1.5,FIFA
-82,Single Stat,Shots On Target,Moises,1.5,FIFA
-82,Single Stat,Shots,Cheng Jin,1.5,FIFA
-82,Single Stat,Shots On Target,Cheng Jin,0.5,FIFA
-82,Single Stat,Shots,Zhongguo Chi,0.5,FIFA
-82,Single Stat,Shots,Nebojsa Kosovic,1.5,FIFA
-82,Single Stat,Shots On Target,Nebojsa Kosovic,0.5,FIFA
-82,Single Stat,Shots,Franko Andrijasevic,2.5,FIFA
-82,Single Stat,Shots On Target,Franko Andrijasevic,1.0,FIFA
-82,Single Stat,Shots,Xinyu Liu,0.5,FIFA
-82,Single Stat,Shots,Rodrigo Henrique,1.5,FIFA
-82,Single Stat,Shots On Target,Rodrigo Henrique,0.5,FIFA
-82,Single Stat,Shots,Dabao Yu,0.5,FIFA
-82,Single Stat,Shots,Moises,4.0,FIFA
-82,Single Stat,Shots,Jin Feng,1.5,FIFA
-82,Single Stat,Shots,Bughrahan Iskandar,0.5,FIFA
-82,Single Stat,Shots,Aleksa Vukanovic,1.5,FIFA
-82,Single Stat,Shots On Target,Aleksa Vukanovic,0.5,FIFA
-82,Single Stat,Shots,Samuel Adegbenro,1.5,FIFA
-82,Single Stat,Shots,Oscar Taty Maritu,1.5,FIFA
-82,Single Stat,Shots On Target,Oscar Taty Maritu,0.5,FIFA
-82,Single Stat,Shots,Kaimu Zheng,0.5,FIFA
-82,Single Stat,Shots On Target,Yuning Zhang,1.5,FIFA
-82,Single Stat,Shots,Yuning Zhang,4.0,FIFA
-82,Single Stat,Shots,Samir Memisevic,1.0,FIFA
-82,Single Stat,Shots,Josef Martínez,2.5,FIFA
-82,Single Stat,Shots On Target,Josef Martínez,1.0,FIFA
-82,Single Stat,Shots On Target,Jin Feng,0.5,FIFA
-82,Single Stat,Shots,Xizhe Zhang,1.0,FIFA
-82,Single Stat,Shots,Ruben Gabrielsen,0.5,FIFA
-82,Single Stat,Shots On Target,Cristian Roldan,0.5,FIFA
-230,Single Stat,Ground Balls,Connor Farrell,8.5,LAX
-230,Single Stat,Shots,Eric Law,3.5,LAX
-230,Single Stat,Points,Eric Law,3.0,LAX
-230,Single Stat,Shots,Will Manny,6.5,LAX
-230,Single Stat,Points,Will Manny,4.0,LAX
-230,Single Stat,Shots,Jeff Teat,7.0,LAX
-230,Single Stat,Points,Jeff Teat,4.5,LAX
-230,Single Stat,Shots,Dylan Molloy,7.0,LAX
-230,Single Stat,Shots,Tom Schreiber,5.5,LAX
-230,Single Stat,Points,Tom Schreiber,3.5,LAX
-230,Single Stat,Shots,Bryan Costabile,6.5,LAX
-230,Single Stat,Points,Bryan Costabile,2.5,LAX
-230,Single Stat,Ground Balls,Holden Garlent,2.5,LAX
-230,Single Stat,Points,Dylan Molloy,3.5,LAX
-230,Single Stat,Ground Balls,Scott Ratliff,4.5,LAX
-230,Single Stat,Points,Shayne Jackson,2.5,LAX
-230,Single Stat,Shots,Matt Moore,4.5,LAX
-230,Single Stat,Points,Matt Moore,3.5,LAX
-230,Single Stat,Shots,Shayne Jackson,5.5,LAX
-230,Single Stat,Faceoffs Won,Connor Farrell,13.5,LAX
-230,Single Stat,Goalie Saves,Adam Ghitelman,12.5,LAX
-230,Single Stat,Goals Allowed,Adam Ghitelman,13.0,LAX
-230,Single Stat,Goals Allowed,Jack Concannon,12.5,LAX
-230,Single Stat,Goalie Saves,Jack Concannon,13.5,LAX
-230,Single Stat,Ground Balls,Stephen Kelly,6.5,LAX
-230,Single Stat,Shots,Ryan Drenner,5.5,LAX
-230,Single Stat,Shots,Asher Nolting,3.5,LAX
-230,Single Stat,Shots,Kevin Rogers,3.5,LAX
-230,Single Stat,Shots,Marcus Holman,6.5,LAX
-230,Single Stat,Points,Marcus Holman,2.5,LAX
-230,Single Stat,Points,Kevin Rogers,1.5,LAX
-230,Single Stat,Points,Chris Gray,3.0,LAX
-230,Single Stat,Shots,Chris Gray,5.5,LAX
-230,Single Stat,Points,Asher Nolting,2.0,LAX
-230,Single Stat,Ground Balls,Michael Rexrode,3.5,LAX
-230,Single Stat,Ground Balls,Michael Manley,2.5,LAX
-230,Single Stat,Ground Balls,Craig Chick,3.5,LAX
-230,Single Stat,Goalie Saves,Sean Sconone,11.5,LAX
-230,Single Stat,Ground Balls,Graeme Hossack,3.5,LAX
-230,Single Stat,Shots,Brendan Nichtern,5.5,LAX
-230,Single Stat,Points,Brendan Nichtern,3.5,LAX
-230,Single Stat,Shots,Lyle Thompson,7.5,LAX
-230,Single Stat,Points,Lyle Thompson,4.0,LAX
-230,Single Stat,Goals Allowed,Nick Marrocco,13.0,LAX
-230,Single Stat,Goals Allowed,Sean Sconone,11.5,LAX
-230,Single Stat,Shots,Logan Wisnauskas,6.5,LAX
-230,Single Stat,Points,Logan Wisnauskas,3.5,LAX
-230,Single Stat,Goalie Saves,Nick Marrocco,13.5,LAX
-230,Single Stat,Points,Jake Froccaro,3.0,LAX
-230,Single Stat,Points,Ryan Drenner,3.5,LAX
-230,Single Stat,Ground Balls,Cade Van Raaphorst,3.0,LAX
-230,Single Stat,Shots,Jake Froccaro,4.0,LAX
-230,Single Stat,Faceoffs Won,Trevor Baptiste,16.5,LAX
-230,Single Stat,Ground Balls,Trevor Baptiste,8.5,LAX
-121,Single Stat,Kills,Zeus,6.5,LoL
-121,Single Stat,Kills,Photic,3.5,LoL
-121,Single Stat,Kills,Cube,1.5,LoL
-121,Single Stat,Kills,Wayward,2.5,LoL
-121,Single Stat,Kills,Zeus,3.5,LoL
-121,Single Stat,Kills,deokdam,3.5,LoL
-121,Single Stat,Kills,iBoy,2.0,LoL
-121,Single Stat,Kills,Nuguri,2.0,LoL
-121,Single Stat,Kills,huanfeng,3.5,LoL
-121,Single Stat,Kills,deokdam,6.5,LoL
-121,Single Stat,Kills,Gumayusi,3.5,LoL
-121,Single Stat,Kills,Gumayusi,7.5,LoL
-121,Single Stat,Kills,Wayward,5.5,LoL
-121,Single Stat,Kills,Photic,6.5,LoL
-121,Single Stat,Kills,xiaolaohu,1.5,LoL
-121,Single Stat,Kills,xiaolaohu,3.5,LoL
-121,Single Stat,Kills,Lwx,2.5,LoL
-121,Single Stat,Kills,Rascal,7.5,LoL
-121,Single Stat,Kills,Rascal,3.5,LoL
-121,Single Stat,Kills,Lwx,5.5,LoL
-121,Single Stat,Kills,JackeyLove,4.0,LoL
-121,Single Stat,Kills,JackeyLove,8.0,LoL
-121,Single Stat,Kills,Dove,2.0,LoL
-121,Single Stat,Kills,Aiming,8.5,LoL
-121,Single Stat,Kills,Aiming,4.0,LoL
-121,Single Stat,Kills,Prince,5.0,LoL
-121,Single Stat,Kills,Prince,2.5,LoL
-121,Single Stat,Kills,Breathe,5.5,LoL
-121,Single Stat,Kills,Breathe,3.0,LoL
-121,Single Stat,Kills,Rich,4.5,LoL
-121,Single Stat,Kills,Rich,2.0,LoL
-121,Single Stat,Kills,GALA,7.5,LoL
-121,Single Stat,Kills,GALA,3.5,LoL
-121,Single Stat,Kills,TheShy,3.0,LoL
-121,Single Stat,Kills,Dove,4.5,LoL
-121,Single Stat,Kills,Nuguri,4.5,LoL
-2,Single Stat,Hitter Fantasy Score,Christopher Morel,6.5,MLB
-2,Single Stat,Hitter Fantasy Score,Dansby Swanson,7.0,MLB
-2,Single Stat,Hitter Fantasy Score,Nick Castellanos,7.0,MLB
-2,Single Stat,Hits + Walks,Jake Cronenworth,1.5,MLB
-2,Single Stat,Hitter Fantasy Score,Austin Hays,6.5,MLB
-2,Single Stat,Hitter Fantasy Score,Ronald Acuna Jr.,8.0,MLB
-2,Single Stat,Hits + Walks,Will Smith,1.5,MLB
-2,Single Stat,Hitter Fantasy Score,Corey Seager,7.5,MLB
-2,Single Stat,1st Inning Runs Allowed,WhiteSox and Orioles Starting Pitchers,0.5,MLB
-2,Single Stat,Hitter Fantasy Score,Jake Cronenworth,7.5,MLB
-2,Single Stat,Hitter Fantasy Score,Juan Soto,8.5,MLB
-2,Single Stat,Hitter Fantasy Score,Bryce Harper,8.0,MLB
-2,Single Stat,Hitter Fantasy Score,Daulton Varsho,6.5,MLB
-2,Single Stat,Pitcher Fantasy Score,JT Brubaker,27.5,MLB
-2,Single Stat,Hitter Fantasy Score,Willi Castro,6.5,MLB
-2,Single Stat,Pitches Thrown,Patrick Sandoval,91.5,MLB
-2,Single Stat,Hitter Fantasy Score,José Abreu,7.5,MLB
-2,Single Stat,Hits + Walks,Marcell Ozuna,1.5,MLB
-2,Single Stat,Hitter Fantasy Score,Francisco Lindor,8.0,MLB
-2,Single Stat,Hitter Fantasy Score,Trea Turner,8.0,MLB
-2,Single Stat,Pitches Thrown,Corbin Burnes,98.5,MLB
-2,Single Stat,Strikeouts,Corbin Burnes,7.5,MLB
-2,Single Stat,Hitter Fantasy Score,Cesar Hernandez,7.0,MLB
-2,Single Stat,Pitcher Fantasy Score,Corbin Burnes,38.5,MLB
-2,Single Stat,Hitter Fantasy Score,Garrett Cooper,5.5,MLB
-2,Single Stat,Hitter Fantasy Score,Luke Voit,7.5,MLB
-2,Single Stat,Pitcher Fantasy Score,Trevor Rogers,21.5,MLB
-2,Single Stat,Strikeouts,Trevor Rogers,4.5,MLB
-2,Single Stat,Pitches Thrown,Trevor Rogers,92.5,MLB
-2,Single Stat,Pitcher Fantasy Score,Chris Bassitt,37.5,MLB
-2,Single Stat,Strikeouts,Chris Bassitt,6.0,MLB
-2,Single Stat,Pitches Thrown,Chris Bassitt,104.5,MLB
-2,Single Stat,Hitter Fantasy Score,Michael Brantley,5.0,MLB
-2,Single Stat,Hitter Fantasy Score,Kole Calhoun,5.5,MLB
-2,Single Stat,1st Inning Runs Allowed,Dodgers and Braves Starting Pitchers,0.5,MLB
-2,Single Stat,Hitter Fantasy Score,Pete Alonso,8.5,MLB
-2,Single Stat,Hitter Fantasy Score,Austin Riley,7.5,MLB
-2,Single Stat,Hitter Fantasy Score,Jazz Chisholm,7.0,MLB
-2,Single Stat,Hitter Fantasy Score,Josh Bell,7.0,MLB
-2,Single Stat,Hits + Walks,Josh Bell,1.5,MLB
-2,Single Stat,Hitter Fantasy Score,Max Muncy,6.0,MLB
-2,Single Stat,Hits + Walks,Marcus Semien,1.5,MLB
-2,Single Stat,Hitter Fantasy Score,Tim Anderson,7.5,MLB
-2,Single Stat,Hitter Fantasy Score,Kyle Schwarber,7.0,MLB
-2,Single Stat,1st Inning Runs Allowed,Giants and Reds Starting Pitchers,0.5,MLB
-2,Single Stat,Hitter Fantasy Score,Freddie Freeman,7.0,MLB
-2,Single Stat,Hitter Fantasy Score,Marcus Semien,6.5,MLB
-2,Single Stat,Runs + RBIs,Marcus Semien,0.5,MLB
-2,Single Stat,Runs + RBIs,Christopher Morel,0.5,MLB
-2,Single Stat,1st Inning Runs Allowed,Royals and Athletics Starting Pitchers,0.5,MLB
+82,Fantasy Score,Fantasy Score,Víctor Guzmán,2.6,FIFA
+82,Single Stat,Shots,Raymundo Fulgencio,1.5,FIFA
+82,Fantasy Score,Fantasy Score,Miguel Tapias,2.9,FIFA
+82,Single Stat,Shots,Ramon Juarez,0.5,FIFA
+82,Single Stat,Shots,Rubens Sambueza,0.5,FIFA
+82,Single Stat,Shots,Ricardo Chávez,0.5,FIFA
+82,Single Stat,Goalie Saves,Alfredo Talavera,3.5,FIFA
+82,Single Stat,Goalie Saves,Nahuel Guzmán,3.0,FIFA
+82,Single Stat,Goalie Saves,Óscar Ustari,3.0,FIFA
+82,Single Stat,Goalie Saves,Guillermo Ochoa,2.0,FIFA
+82,Single Stat,Goals Allowed,Guillermo Ochoa,0.5,FIFA
+82,Single Stat,Goalie Saves,Luis Malagón,3.0,FIFA
+82,Single Stat,Goals Allowed,Luis Malagón,1.0,FIFA
+82,Single Stat,Goalie Saves,Marcelo Barovero,2.5,FIFA
+82,Single Stat,Goals Allowed,Marcelo Barovero,1.0,FIFA
+82,Single Stat,Shots,Edgar Méndez,1.5,FIFA
+82,Fantasy Score,Fantasy Score,Edgar Méndez,2.4,FIFA
+82,Single Stat,Shots On Target,Facundo Waller,0.5,FIFA
+82,Single Stat,Shots On Target,Jhon Murillo,0.5,FIFA
+82,Single Stat,Shots,Jhon Murillo,1.5,FIFA
+82,Fantasy Score,Fantasy Score,Jhon Murillo,1.3,FIFA
+82,Fantasy Score,Fantasy Score,Dieter Villalpando,1.6,FIFA
+82,Single Stat,Shots,Dieter Villalpando,1.0,FIFA
+82,Fantasy Score,Fantasy Score,Juan Manuel Sanabria,1.7,FIFA
+82,Single Stat,Shots,Milton Gimenez,2.0,FIFA
+82,Fantasy Score,Fantasy Score,Milton Gimenez,3.4,FIFA
+82,Single Stat,Shots,Abel Hernandez,2.0,FIFA
+82,Fantasy Score,Fantasy Score,Abel Hernandez,2.6,FIFA
+82,Single Stat,Shots On Target,Víctor Guzmán,0.5,FIFA
+82,Single Stat,Crosses,Raymundo Fulgencio,4.5,FIFA
+82,Single Stat,Shots On Target,Raymundo Fulgencio,0.5,FIFA
+82,Single Stat,Shots,Luis Chavez,3.0,FIFA
+82,Single Stat,Shots,Víctor Guzmán,2.0,FIFA
+82,Single Stat,Crosses,Javier Aquino,2.5,FIFA
+82,Single Stat,Shots,Javier Aquino,0.5,FIFA
+82,Fantasy Score,Fantasy Score,Avilés Hurtado,3.1,FIFA
+82,Fantasy Score,Fantasy Score,Facundo Waller,2.1,FIFA
+82,Single Stat,Crosses,Avilés Hurtado,4.5,FIFA
+82,Single Stat,Shots,Avilés Hurtado,1.5,FIFA
+82,Fantasy Score,Fantasy Score,Nico López,2.9,FIFA
+82,Single Stat,Crosses,Nico López,3.0,FIFA
+82,Fantasy Score,Fantasy Score,Nicolás Ibáñez,3.2,FIFA
+82,Single Stat,Crosses,Nicolás Ibáñez,0.5,FIFA
+82,Fantasy Score,Fantasy Score,Raymundo Fulgencio,1.9,FIFA
+82,Single Stat,Shots,Nicolás Ibáñez,3.5,FIFA
+82,Fantasy Score,Fantasy Score,Sebastián Córdova,3.8,FIFA
+82,Single Stat,Shots On Target,Nicolás Ibáñez,1.5,FIFA
+82,Single Stat,Shots On Target,Sebastián Córdova,1.0,FIFA
+82,Single Stat,Shots On Target,Luis Chavez,0.5,FIFA
+82,Single Stat,Shots On Target,Edgar Méndez,0.5,FIFA
+82,Single Stat,Crosses,Luis Chavez,3.5,FIFA
+82,Single Stat,Crosses,Sebastián Córdova,5.5,FIFA
+82,Single Stat,Shots,Andre-Pierre Gignac,4.0,FIFA
+82,Single Stat,Shots On Target,Andre-Pierre Gignac,1.5,FIFA
+82,Fantasy Score,Fantasy Score,Luis Chavez,3.6,FIFA
+82,Fantasy Score,Fantasy Score,Andre-Pierre Gignac,6.4,FIFA
+82,Single Stat,Shots,Erick Sánchez,1.0,FIFA
+82,Fantasy Score,Fantasy Score,Erick Sánchez,2.9,FIFA
+82,Single Stat,Crosses,Erick Sánchez,0.5,FIFA
+82,Single Stat,Shots,Sebastián Córdova,3.0,FIFA
+82,Single Stat,Shots,Facundo Waller,2.0,FIFA
+121,Single Stat,Kills,Inspired,3.0,LoL
+121,Single Stat,Kills,Blue,3.0,LoL
+121,Single Stat,Kills,Maple,2.5,LoL
+121,Single Stat,Kills,Exyu,2.5,LoL
+121,Single Stat,Kills,Spica,3.0,LoL
+121,Single Stat,Kills,PowerOfEvil,2.5,LoL
+121,Single Stat,Kills,Bjergsen,3.0,LoL
+121,Single Stat,Kills,Blaber,2.5,LoL
+121,Single Stat,Kills,River,2.5,LoL
+121,Single Stat,Kills,Kenvi,2.5,LoL
+121,Single Stat,Kills,Pridestalker,2.0,LoL
+121,Single Stat,Kills,Abbedagge,2.5,LoL
+121,Single Stat,Kills,Closer,2.5,LoL
+121,Single Stat,Kills,Jensen,3.0,LoL
+121,Single Stat,Kills,jojopyun,2.5,LoL
+121,Single Stat,Kills,Santorin,1.5,LoL
+121,Single Stat,Kills,Ablazeolive,2.5,LoL
+2,Single Stat,Walks Allowed,Tucker Davidson,2.5,MLB
+2,Single Stat,Runs,Alek Thomas,0.5,MLB
+2,Single Stat,Earned Runs Allowed,Tucker Davidson,2.5,MLB
+2,Single Stat,Strikeouts,Tucker Davidson,3.5,MLB
+2,Single Stat,Total Bases,Nick Allen,0.5,MLB
+2,Single Stat,Hits Allowed,Tucker Davidson,4.5,MLB
+2,Single Stat,Earned Runs Allowed,Marco Gonzales,2.5,MLB
+2,Single Stat,Hits Allowed,Marco Gonzales,6.0,MLB
 2,Single Stat,Hitter Fantasy Score,Ketel Marte,7.5,MLB
-2,Single Stat,Pitches Thrown,Zach Davies,95.5,MLB
-2,Single Stat,Hitter Fantasy Score,Ian Happ,5.5,MLB
-2,Single Stat,Hitter Fantasy Score,Ty France,6.5,MLB
-2,Single Stat,Hitter Fantasy Score,Mike Trout,8.0,MLB
-2,Single Stat,Pitcher Fantasy Score,Zach Eflin,25.5,MLB
-2,Single Stat,Pitches Thrown,Zach Eflin,89.5,MLB
-2,Single Stat,Hitter Fantasy Score,Taylor Ward,6.5,MLB
-2,Single Stat,Hitter Fantasy Score,Jesse Winker,5.5,MLB
-2,Single Stat,Hitter Fantasy Score,Nolan Arenado,8.0,MLB
-2,Single Stat,Hitter Fantasy Score,Willson Contreras,6.5,MLB
-2,Single Stat,Hitter Fantasy Score,Shohei Ohtani ,7.5,MLB
-2,Single Stat,Hitter Fantasy Score,Julio Rodriguez,6.5,MLB
-2,Single Stat,Pitches Thrown,Josiah Gray,96.5,MLB
-2,Single Stat,Strikeouts,Josiah Gray,5.0,MLB
-2,Single Stat,Pitcher Fantasy Score,Josiah Gray,29.5,MLB
-2,Single Stat,Hitter Fantasy Score,Paul Goldschmidt,8.5,MLB
-2,Single Stat,Hits + Walks,Carlos Correa,1.5,MLB
-2,Single Stat,Hitter Fantasy Score,Jorge Soler,5.5,MLB
-2,Single Stat,1st Inning Runs Allowed,Angels and Mariners Starting Pitchers,0.5,MLB
-2,Single Stat,Hitter Fantasy Score,Starling Marte,7.0,MLB
-2,Single Stat,1st Inning Runs Allowed,Nationals and Rangers Starting Pitchers,0.5,MLB
-2,Single Stat,Strikeouts,Zach Davies,4.5,MLB
-2,Single Stat,1st Inning Runs Allowed,DBacks and Tigers Starting Pitchers,0.5,MLB
-2,Single Stat,Strikeouts,Zach Eflin,4.0,MLB
-2,Single Stat,Hitter Fantasy Score,Tommy Edman,7.5,MLB
-2,Single Stat,Pitches Thrown,Yusei Kikuchi,82.5,MLB
-2,Single Stat,Strikeouts,Yusei Kikuchi,5.0,MLB
-2,Single Stat,Pitcher Fantasy Score,Yusei Kikuchi,23.5,MLB
-2,Single Stat,Strikeouts,Patrick Sandoval,5.5,MLB
-2,Single Stat,Hitter Fantasy Score,Giancarlo Stanton,7.5,MLB
-2,Single Stat,1st Inning Runs Allowed,Cubs and Cardinals Starting Pitchers,0.5,MLB
-2,Single Stat,Hitter Fantasy Score,Riley Greene,7.0,MLB
+2,Single Stat,Runs,Joc Pederson,0.5,MLB
+2,Single Stat,Strikeouts,Marco Gonzales,4.0,MLB
+2,Single Stat,Pitcher Fantasy Score,Marco Gonzales,27.5,MLB
+2,Single Stat,Total Bases,Austin Wynns,0.5,MLB
+2,Single Stat,Hitter Fantasy Score,Ty France,7.5,MLB
+2,Single Stat,Hitter Fantasy Score,Shohei Ohtani,7.5,MLB
+2,Single Stat,Runs,Shohei Ohtani,0.5,MLB
+2,Single Stat,Runs,Eugenio Suárez,0.5,MLB
+2,Single Stat,Runs,Adam Frazier,0.5,MLB
+2,Single Stat,Hitter Fantasy Score,Jesse Winker,6.5,MLB
+2,Single Stat,Pitches Thrown,Marco Gonzales,91.5,MLB
+2,Single Stat,Total Bases,Alek Thomas,1.5,MLB
+2,Single Stat,Hitter Fantasy Score,Wilmer Flores,6.5,MLB
+2,Single Stat,Hitter Fantasy Score,Ramón Laureano,4.5,MLB
+2,Single Stat,Total Bases,Ketel Marte,1.5,MLB
+2,Single Stat,Hits + Walks,Jesse Winker,1.5,MLB
+2,Single Stat,Runs,Daulton Varsho,0.5,MLB
 2,Single Stat,Hitter Fantasy Score,Christian Walker,7.5,MLB
-2,Single Stat,Hits + Walks,Christian Walker,1.5,MLB
-2,Single Stat,Hitter Fantasy Score,José Altuve,5.5,MLB
-2,Single Stat,Hitter Fantasy Score,Miguel Cabrera,7.0,MLB
-2,Single Stat,Strikeouts,Blake Snell,6.0,MLB
-2,Single Stat,Pitches Thrown,Blake Snell,94.5,MLB
-2,Single Stat,Pitcher Fantasy Score,Blake Snell,28.5,MLB
-2,Single Stat,Runs + RBIs,Nolan Gorman,0.5,MLB
-2,Single Stat,Pitcher Fantasy Score,Patrick Sandoval,33.5,MLB
-2,Single Stat,Pitches Thrown,Alex Faedo,88.5,MLB
-2,Single Stat,Strikeouts,Alex Faedo,4.0,MLB
-2,Single Stat,Hitter Fantasy Score,Anthony Rizzo,7.5,MLB
-2,Single Stat,Pitcher Fantasy Score,Alex Faedo,23.5,MLB
-2,Single Stat,Hits + Walks,Tommy Edman,1.5,MLB
-2,Single Stat,Pitcher Fantasy Score,Zach Davies,26.5,MLB
-2,Single Stat,Hitter Fantasy Score,Carlos Correa,7.5,MLB
-2,Single Stat,Hitter Fantasy Score,Eric Hosmer,7.0,MLB
-2,Single Stat,Hitter Fantasy Score,Trey Mancini,7.0,MLB
-2,Single Stat,Hitter Fantasy Score,Randy Arozarena,7.5,MLB
-2,Single Stat,Strikeouts,JT Brubaker,5.0,MLB
-2,Single Stat,Strikeouts,Josh Winckowski,3.0,MLB
-2,Single Stat,Pitcher Fantasy Score,Josh Winckowski,20.5,MLB
-2,Single Stat,Pitches Thrown,Josh Winckowski,91.5,MLB
-2,Single Stat,Pitches Thrown,Shane Bieber,98.5,MLB
-2,Single Stat,Hitter Fantasy Score,Bobby Witt,7.0,MLB
-2,Single Stat,1st Inning Runs Allowed,Mets and Marlins Starting Pitchers,0.5,MLB
-2,Single Stat,Pitcher Fantasy Score,Shane Bieber,34.5,MLB
-2,Single Stat,Hitter Fantasy Score,Vladimir Guerrero Jr.,7.0,MLB
-2,Single Stat,Hitter Fantasy Score,George Springer,6.5,MLB
-2,Single Stat,1st Inning Runs Allowed,Guardians and RedSox Starting Pitchers,0.5,MLB
-2,Single Stat,Hitter Fantasy Score,Willy Adames,8.0,MLB
-2,Single Stat,Runs + RBIs,Bryan Reynolds,0.5,MLB
-2,Single Stat,Strikeouts,Shane Bieber,7.0,MLB
-2,Single Stat,Hitter Fantasy Score,Bryan Reynolds,7.0,MLB
-2,Single Stat,Hitter Fantasy Score,Seth Brown,6.5,MLB
-2,Single Stat,Hitter Fantasy Score,Daniel Vogelbach,5.5,MLB
-2,Single Stat,Hits + Walks,DJ LeMahieu,1.5,MLB
-2,Single Stat,Pitcher Fantasy Score,Corey Kluber,34.5,MLB
-2,Single Stat,Strikeouts,Corey Kluber,5.5,MLB
-2,Single Stat,Pitches Thrown,Corey Kluber,90.5,MLB
-2,Single Stat,Hitter Fantasy Score,Ji-Man Choi,7.0,MLB
-2,Single Stat,Runs + RBIs,Ji-Man Choi,0.5,MLB
-2,Single Stat,Hitter Fantasy Score,Whit Merrifield,8.0,MLB
-2,Single Stat,Runs + RBIs,DJ LeMahieu,0.5,MLB
-2,Single Stat,Hitter Fantasy Score,Yordan Alvarez,6.0,MLB
-2,Single Stat,Pitcher Fantasy Score,Cristian Javier,24.5,MLB
-2,Single Stat,Pitches Thrown,Cristian Javier,91.5,MLB
-2,Single Stat,Strikeouts,Cristian Javier,5.0,MLB
-2,Single Stat,Hitter Fantasy Score,Ramón Laureano,6.5,MLB
-2,Single Stat,Hitter Fantasy Score,Andrew Benintendi,8.0,MLB
-2,Single Stat,1st Inning Runs Allowed,Yankees and Astros Starting Pitchers,0.5,MLB
-2,Single Stat,Hitter Fantasy Score,Bo Bichette,5.5,MLB
-2,Single Stat,Hits + Walks,Andrew McCutchen,1.5,MLB
-2,Single Stat,Hitter Fantasy Score,Andrew McCutchen,6.5,MLB
-2,Single Stat,Hitter Fantasy Score,Jonathan India,6.5,MLB
-2,Single Stat,Hitter Fantasy Score,Ke'Bryan Hayes,7.0,MLB
-2,Single Stat,Hitter Fantasy Score,Wilmer Flores,7.5,MLB
-2,Single Stat,Hitter Fantasy Score,Joey Votto,5.5,MLB
-2,Single Stat,Hitter Fantasy Score,Darin Ruf,6.5,MLB
-2,Single Stat,Hitter Fantasy Score,Brandon Drury,5.5,MLB
-2,Single Stat,Strikeouts,Chris Archer,3.0,MLB
-2,Single Stat,Hitter Fantasy Score,Mike Yastrzemski,6.5,MLB
-2,Single Stat,Strikeouts,Max Fried,5.0,MLB
-2,Single Stat,Pitches Thrown,Max Fried,100.5,MLB
-2,Single Stat,Hitter Fantasy Score,C.J. Cron,8.0,MLB
-2,Single Stat,Hitter Fantasy Score,Byron Buxton,8.5,MLB
-2,Single Stat,Hitter Fantasy Score,Charlie Blackmon,7.0,MLB
-2,Single Stat,Hits + Walks,Charlie Blackmon,1.5,MLB
-2,Single Stat,Pitcher Fantasy Score,Max Fried,30.5,MLB
-2,Single Stat,Pitches Thrown,Antonio Senzatela,88.5,MLB
-2,Single Stat,Strikeouts,Antonio Senzatela,3.0,MLB
-2,Single Stat,Hitter Fantasy Score,Josh Naylor,5.5,MLB
-2,Single Stat,Strikeouts,Mike Minor,4.5,MLB
-2,Single Stat,Pitcher Fantasy Score,Mike Minor,22.5,MLB
-2,Single Stat,Pitches Thrown,Mike Minor,97.5,MLB
+2,Single Stat,Runs,Christian Walker,0.5,MLB
+2,Single Stat,Runs,Freddie Freeman,0.5,MLB
+2,Single Stat,Total Bases,Freddie Freeman,1.5,MLB
+2,Single Stat,Hitter Fantasy Score,Freddie Freeman,7.5,MLB
+2,Single Stat,Runs,Juan Soto,0.5,MLB
+2,Single Stat,Hitter Fantasy Score,Juan Soto,7.5,MLB
+2,Single Stat,Runs,Jurickson Profar,0.5,MLB
+2,Single Stat,Runs,Manny Machado,0.5,MLB
+2,Single Stat,RBIs,Manny Machado,0.5,MLB
+2,Single Stat,Runs,Ketel Marte,0.5,MLB
+2,Single Stat,Total Bases,Manny Machado,1.5,MLB
+2,Single Stat,Runs,Trea Turner,0.5,MLB
+2,Single Stat,Total Home Runs,LAD: M. Betts+ T. Turner+ F. Freeman,0.5,MLB
+2,Single Stat,Total Bases,Trea Turner,1.5,MLB
+2,Single Stat,Hitter Fantasy Score,Trea Turner,8.0,MLB
+2,Single Stat,Total Home Runs,SD: M. Machado+ J. Soto+ B. Drury,0.5,MLB
+2,Single Stat,Runs,Will Smith,0.5,MLB
+2,Single Stat,Total Home Runs,SEA: E. Suarez+ C. Raleigh+ M. Haniger,0.5,MLB
+2,Single Stat,Pitches Thrown,Logan Webb,97.5,MLB
+2,Single Stat,Hits Allowed,Logan Webb,5.5,MLB
+2,Single Stat,Strikeouts,Logan Webb,5.0,MLB
+2,Single Stat,Pitching Outs,Logan Webb,19.5,MLB
 2,Single Stat,Pitcher Fantasy Score,Logan Webb,37.5,MLB
-2,Single Stat,Pitches Thrown,Logan Webb,100.5,MLB
-2,Single Stat,Strikeouts,Logan Webb,5.5,MLB
-2,Single Stat,Hitter Fantasy Score,Rafael Devers,7.5,MLB
-2,Single Stat,Hitter Fantasy Score,Jose Ramirez,8.5,MLB
-2,Single Stat,Hitter Fantasy Score,Yandy Diaz,7.5,MLB
-2,Single Stat,Hits + Walks,Yandy Diaz,1.5,MLB
-2,Single Stat,Hitter Fantasy Score,Xander Bogaerts,6.5,MLB
-2,Single Stat,Hitter Fantasy Score,Amed Rosario,7.0,MLB
-2,Single Stat,Hits + Walks,Amed Rosario,1.5,MLB
-2,Single Stat,Hitter Fantasy Score,J.D. Martinez,6.0,MLB
-2,Single Stat,1st Inning Runs Allowed,Rockies and Twins Starting Pitchers,0.5,MLB
-2,Single Stat,Pitcher Fantasy Score,Gerrit Cole,38.5,MLB
-2,Single Stat,Strikeouts,Gerrit Cole,7.0,MLB
-2,Single Stat,Hitter Fantasy Score,Tony Kemp,6.5,MLB
-2,Single Stat,Pitches Thrown,Logan Gilbert,99.5,MLB
-2,Single Stat,Strikeouts,Brad Keller,4.0,MLB
-2,Single Stat,Hitter Fantasy Score,Connor Joe,6.5,MLB
-2,Single Stat,Pitcher Fantasy Score,Logan Gilbert,33.5,MLB
-2,Single Stat,Pitches Thrown,Lance Lynn,95.5,MLB
-2,Single Stat,Strikeouts,Lance Lynn,5.0,MLB
-2,Single Stat,Pitcher Fantasy Score,Lance Lynn,31.5,MLB
-2,Single Stat,Strikeouts,Jared Koenig,3.5,MLB
-2,Single Stat,Pitcher Fantasy Score,Jared Koenig,18.5,MLB
-2,Single Stat,Hitter Fantasy Score,Luis Arraez,7.5,MLB
-2,Single Stat,Pitches Thrown,Brad Keller,93.5,MLB
-2,Single Stat,Strikeouts,Miles Mikolas,5.0,MLB
-2,Single Stat,Pitches Thrown,Miles Mikolas,101.5,MLB
-2,Single Stat,Strikeouts,Logan Gilbert,6.5,MLB
-2,Single Stat,Pitches Thrown,Gerrit Cole,100.5,MLB
-2,Single Stat,Hitter Fantasy Score,Luis Robert,8.5,MLB
-2,Single Stat,1st Inning Runs Allowed,Phillies and Padres Starting Pitchers,0.5,MLB
-2,Single Stat,Pitches Thrown,JT Brubaker,98.5,MLB
-2,Single Stat,Hits + Walks,Brandon Nimmo,1.5,MLB
-2,Single Stat,Runs + RBIs,Cedric Mullins,0.5,MLB
-2,Single Stat,1st Inning Runs Allowed,BlueJays and Brewers Starting Pitchers,0.5,MLB
-2,Single Stat,Pitcher Fantasy Score,Miles Mikolas,33.5,MLB
-2,Single Stat,Pitcher Fantasy Score,Brad Keller,26.5,MLB
-2,Single Stat,Pitches Thrown,Jared Koenig,89.5,MLB
-2,Single Stat,Hitter Fantasy Score,Cedric Mullins,7.5,MLB
-2,Single Stat,Hitter Fantasy Score,Aaron Judge,8.5,MLB
-2,Single Stat,1st Inning Runs Allowed,Pirates and Rays Starting Pitchers,0.5,MLB
-189,Single Stat,Innings 1+2 Runs Allowed,Ole Miss Starting Pitcher,0.5,NCAA Baseball
-189,Single Stat,Innings 1+2 Runs Allowed,Oklahoma Starting Pitcher,0.5,NCAA Baseball
-9,Single Stat,Receiving Yards,Kyle Pitts,55.5,NFL
-9,Single Stat,Rush Yards,Jonathan Taylor,95.5,NFL
-9,Single Stat,Receiving Yards,Brandin Cooks,55.5,NFL
-9,Single Stat,Rush Yards,Najee Harris,60.5,NFL
-9,Single Stat,Receiving Yards,Allen Robinson,59.5,NFL
-9,Single Stat,Receiving Yards,George Kittle,60.5,NFL
-9,Single Stat,Receiving Yards,Ja'Marr Chase,78.5,NFL
-9,Single Stat,Receiving Yards,Tee Higgins,65.5,NFL
-9,Single Stat,Pass Yards,Jalen Hurts,220.5,NFL
-9,Single Stat,Pass Yards,Jared Goff,225.5,NFL
-9,Single Stat,Pass Yards,Lamar Jackson,230.5,NFL
-9,Single Stat,Receiving Yards,Diontae Johnson,60.5,NFL
-9,Single Stat,Pass Yards,Trevor Lawrence,235.5,NFL
-9,Single Stat,Rush Yards,Miles Sanders,59.5,NFL
-9,Single Stat,Receiving Yards,Deebo Samuel,54.5,NFL
-9,Single Stat,Pass Yards,Carson Wentz,215.5,NFL
-9,Single Stat,Rush Yards,David Montgomery,60.5,NFL
-9,Single Stat,Rush Yards,D'Andre Swift,43.5,NFL
-9,Single Stat,Receiving Yards,A.J. Brown,65.5,NFL
-9,Single Stat,Receiving Yards,Christian Kirk,50.5,NFL
-9,Single Stat,Pass Yards,Matt Ryan,230.5,NFL
-9,Single Stat,Receiving Yards,Darnell Mooney,55.5,NFL
-9,Single Stat,Pass Yards,Joe Burrow,275.5,NFL
-9,Single Stat,Rush Yards,Nick Chubb,82.5,NFL
-9,Single Stat,Receiving Yards,Cooper Kupp,95.5,NFL
+2,Single Stat,Total Home Runs,ATL: R. Acuna+ M. Olson+ A. Riley+ M. Harris,0.5,MLB
+2,Single Stat,Hitter Fantasy Score,Manny Machado,7.5,MLB
+2,Single Stat,Hits + Walks,Taylor Ward,1.5,MLB
+2,Single Stat,Total Bases,Stephen Piscotty,0.5,MLB
+2,Single Stat,Hitter Fantasy Score,Mitch Haniger,6.0,MLB
+2,Single Stat,Hitter Fantasy Score,Josh Bell,6.5,MLB
+2,Single Stat,Total Bases,Cody Bellinger,0.5,MLB
+2,Single Stat,Total Bases,Brandon Drury,1.5,MLB
+2,Single Stat,Walks Allowed,Zach Davies,1.5,MLB
+2,Single Stat,Total Bases,Joey Gallo,0.5,MLB
+2,Single Stat,Strikeouts,Zach Davies,3.5,MLB
+2,Single Stat,Hitter Fantasy Score,Mookie Betts,8.0,MLB
+2,Single Stat,Hits Allowed,Zach Davies,4.5,MLB
+2,Single Stat,Pitcher Fantasy Score,Yu Darvish,31.5,MLB
+2,Single Stat,Walks Allowed,José Ureña,2.5,MLB
+2,Single Stat,Runs + RBIs,Jake Cronenworth,0.5,MLB
+2,Single Stat,Strikeouts,José Ureña,3.0,MLB
+2,Single Stat,Hits Allowed,José Ureña,5.5,MLB
+2,Single Stat,Total Bases,James McCann,0.5,MLB
+2,Single Stat,Total Bases,Michael Harris II,0.5,MLB
+2,Single Stat,Total Bases,Mookie Betts,1.5,MLB
+2,Single Stat,Total Bases,Orlando Arcia,0.5,MLB
+2,Single Stat,Total Bases,William Contreras,0.5,MLB
+2,Single Stat,Hitter Fantasy Score,Brendan Rodgers,6.5,MLB
+2,Single Stat,Hits Allowed,Yu Darvish,5.5,MLB
+2,Single Stat,Pitches Thrown,Yu Darvish,101.5,MLB
+2,Single Stat,Walks Allowed,Yu Darvish,1.5,MLB
+2,Single Stat,Hitter Fantasy Score,Taylor Ward,6.0,MLB
+2,Single Stat,Strikeouts,Yu Darvish,6.0,MLB
+2,Single Stat,Runs + RBIs,Brendan Rodgers,0.5,MLB
+2,Single Stat,Hits Allowed,Tyler Anderson,5.5,MLB
+2,Single Stat,Strikeouts,Tyler Anderson,4.0,MLB
+2,Single Stat,Pitches Thrown,Tyler Anderson,91.5,MLB
+2,Single Stat,Pitcher Fantasy Score,Tyler Anderson,29.5,MLB
+2,Single Stat,Total Bases,Josh Rojas,1.5,MLB
+2,Single Stat,Hits + Walks,Josh Rojas,1.5,MLB
+2,Single Stat,Hitter Fantasy Score,Charlie Blackmon,6.0,MLB
+2,Single Stat,Hitter Fantasy Score,C.J. Cron,7.5,MLB
+2,Single Stat,Total Bases,Daniel Vogelbach,0.5,MLB
+2,Single Stat,Total Bases,Eddie Rosario,0.5,MLB
+2,Single Stat,Total Bases,Jose Herrera,0.5,MLB
+2,Single Stat,Runs + RBIs,Starling Marte,0.5,MLB
+2,Single Stat,Hitter Fantasy Score,Ronald Acuña Jr.,5.0,MLB
+2,Single Stat,Hitter Fantasy Score,Pete Alonso,6.5,MLB
+2,Single Stat,Strikeouts,Jacob deGrom,8.0,MLB
+2,Single Stat,Hits Allowed,Jacob deGrom,3.0,MLB
+2,Single Stat,Hitter Fantasy Score,Starling Marte,6.0,MLB
+2,Single Stat,Strikeouts,Spencer Strider,6.5,MLB
+2,Single Stat,Hits Allowed,Spencer Strider,4.5,MLB
+2,Single Stat,Pitches Thrown,Spencer Strider,95.5,MLB
+2,Single Stat,Pitching Outs,Spencer Strider,17.5,MLB
+2,Single Stat,1st Inning Hits Allowed,Angels and Mariners Starting Pitchers,1.5,MLB
+2,Single Stat,1st Inning Runs Allowed,Angels and Mariners Starting Pitchers,0.5,MLB
+2,Single Stat,Pitcher Fantasy Score,Spencer Strider,36.5,MLB
+2,Single Stat,Runs + RBIs,Luis Rengifo,0.5,MLB
+2,Single Stat,1st Inning Runs Allowed,Dodgers and Padres Starting Pitchers,0.5,MLB
+2,Single Stat,Hitter Fantasy Score,Luis Rengifo,6.0,MLB
+2,Single Stat,Runs + RBIs,Ronald Acuña Jr.,0.5,MLB
+2,Single Stat,1st Inning Runs Allowed,Athletics and Giants Starting Pitchers,0.5,MLB
+2,Single Stat,1st Inning Runs Allowed,DBacks and Rockies Starting Pitchers,0.5,MLB
+2,Single Stat,Hitter Fantasy Score,Austin Riley,5.0,MLB
+2,Single Stat,1st Inning Hits Allowed,Athletics and Giants Starting Pitchers,1.5,MLB
+2,Single Stat,Hitter Fantasy Score,Francisco Lindor,6.0,MLB
+231,Single Stat,Pitches Thrown,Zach Davies,15.5,MLB Live
+231,Single Stat,Pitches Thrown,Marco Gonzales,15.5,MLB Live
+231,Single Stat,Pitches Thrown,Yu Darvish,16.5,MLB Live
+231,Single Stat,Strikeouts,Marco Gonzales,1.5,MLB Live
+231,Single Stat,Strikeouts,Yu Darvish,2.0,MLB Live
+231,Single Stat,Strikeouts,Tyler Anderson,1.5,MLB Live
+231,Single Stat,Pitches Thrown,Tyler Anderson,16.5,MLB Live
+231,Single Stat,Pitches Thrown,Logan Webb,15.5,MLB Live
+231,Single Stat,Pitches Thrown,Spencer Strider,15.5,MLB Live
+231,Single Stat,Pitches Thrown,Jose Urena,15.5,MLB Live
+231,Single Stat,Strikeouts,Logan Webb,2.0,MLB Live
+231,Single Stat,Strikeouts,Zach Davies,0.5,MLB Live
+231,Single Stat,Strikeouts,Spencer Strider,2.5,MLB Live
+231,Single Stat,Strikeouts,Jacob deGrom	,3.0,MLB Live
+231,Single Stat,Strikeouts,Adrian Martinez	,0.5,MLB Live
+231,Single Stat,Strikeouts,Jose Urena,0.5,MLB Live
+231,Single Stat,Pitches Thrown,Jacob deGrom	,14.5,MLB Live
+231,Single Stat,Pitches Thrown,Tucker Davidson	,16.5,MLB Live
+231,Single Stat,Strikeouts,Tucker Davidson	,0.5,MLB Live
+231,Single Stat,Pitches Thrown,Adrian Martinez	,16.5,MLB Live
 9,Single Stat,Receiving Yards,Stefon Diggs,67.5,NFL
-9,Single Stat,Receiving Yards,Jaylen Waddle,55.5,NFL
+9,Single Stat,Pass Yards,Matthew Stafford,280.5,NFL
 9,Single Stat,Pass Yards,Josh Allen,275.5,NFL
+9,Single Stat,Receiving Yards,Darnell Mooney,55.5,NFL
+9,Single Stat,Receiving Yards,Christian Kirk,50.5,NFL
+9,Single Stat,Receiving Yards,Jaylen Waddle,55.5,NFL
+9,Single Stat,Receiving Yards,George Kittle,60.5,NFL
+9,Single Stat,Receiving Yards,Cooper Kupp,95.5,NFL
+9,Single Stat,Rush Yards,David Montgomery,60.5,NFL
+9,Single Stat,Receiving Yards,Tyreek Hill,65.5,NFL
+9,Single Stat,Pass Yards,Carson Wentz,215.5,NFL
+9,Single Stat,Receiving Yards,Gabriel Davis,51.5,NFL
+9,Single Stat,Receiving Yards,Allen Robinson,59.5,NFL
+9,Single Stat,Pass Yards,Mac Jones,230.5,NFL
+9,Single Stat,Rush Yards,Nick Chubb,82.5,NFL
+9,Single Stat,Receiving Yards,Amari Cooper,60.5,NFL
 9,Single Stat,Pass Yards,Tua Tagovailoa,220.5,NFL
 9,Single Stat,Receiving Yards,D.J. Moore,61.5,NFL
-9,Single Stat,Receiving Yards,Tyreek Hill,65.5,NFL
-9,Single Stat,Receiving Yards,Gabriel Davis,51.5,NFL
-9,Single Stat,Receiving Yards,Mark Andrews,69.5,NFL
-9,Single Stat,Rush Yards,Joe Mixon,68.5,NFL
-9,Single Stat,Pass Yards,Zach Wilson,205.5,NFL
-9,Single Stat,Pass Yards,Matthew Stafford,280.5,NFL
-9,Single Stat,Receiving Yards,T.J. Hockenson,47.5,NFL
-9,Single Stat,Pass Yards,Mac Jones,230.5,NFL
-9,Single Stat,Receiving Yards,Amari Cooper,60.5,NFL
 9,Single Stat,Rush Yards,Christian McCaffrey,65.5,NFL
-163,Single Stat,Rec TDs,Mark Andrews,8.5,NFLFUT
-163,Single Stat,Receptions,Darnell Mooney,85.5,NFLFUT
-163,Single Stat,Receiving Yards,Treylon Burks,850.5,NFLFUT
-163,Single Stat,Pass Yards,Patrick Mahomes,4600.5,NFLFUT
-163,Single Stat,Receiving Yards,Jahan Dotson,650.5,NFLFUT
-163,Single Stat,Rec TDs,Treylon Burks,5.5,NFLFUT
-163,Single Stat,Receptions,Jahan Dotson,55.5,NFLFUT
-163,Single Stat,Receiving Yards,Michael Pittman Jr.,1100.5,NFLFUT
-163,Single Stat,Receptions,Treylon Burks,65.5,NFLFUT
+9,Single Stat,Pass Yards,Trevor Lawrence,235.5,NFL
+9,Single Stat,Receiving Yards,Tee Higgins,65.5,NFL
+9,Single Stat,Rush Yards,Najee Harris,63.5,NFL
+9,Single Stat,Pass Yards,Zach Wilson,205.5,NFL
+9,Single Stat,Pass Yards,Jalen Hurts,220.5,NFL
+9,Single Stat,Receiving Yards,Mark Andrews,72.5,NFL
+9,Single Stat,Receiving Yards,Ja'Marr Chase,78.5,NFL
+9,Single Stat,Pass Yards,Jared Goff,225.5,NFL
+9,Single Stat,Pass Yards,Joe Burrow,275.5,NFL
+9,Single Stat,Receiving Yards,Brandin Cooks,55.5,NFL
+9,Single Stat,Pass Yards,Lamar Jackson,230.5,NFL
+9,Single Stat,Receiving Yards,Diontae Johnson,60.5,NFL
+9,Single Stat,Rush Yards,Miles Sanders,59.5,NFL
+9,Single Stat,Receiving Yards,A.J. Brown,65.5,NFL
+9,Single Stat,Receiving Yards,Kyle Pitts,55.5,NFL
+9,Single Stat,Receiving Yards,Deebo Samuel,54.5,NFL
+9,Single Stat,Rush Yards,D'Andre Swift,46.5,NFL
+9,Single Stat,Pass Yards,Matt Ryan,230.5,NFL
+9,Single Stat,Receiving Yards,T.J. Hockenson,47.5,NFL
+9,Single Stat,Rush Yards,Joe Mixon,68.5,NFL
+9,Single Stat,Rush Yards,Jonathan Taylor,100.5,NFL
 163,Single Stat,Rec TDs,Chris Olave,4.5,NFLFUT
-163,Single Stat,Rec TDs,Jahan Dotson,2.5,NFLFUT
-163,Single Stat,Receptions,Mark Andrews,95.5,NFLFUT
-163,Single Stat,Receiving Yards,Christian Watson,650.5,NFLFUT
-163,Single Stat,Receiving Yards,George Pickens,650.5,NFLFUT
-163,Single Stat,Rec TDs,George Pickens,2.5,NFLFUT
-163,Single Stat,Receptions,Skyy Moore,62.5,NFLFUT
-163,Single Stat,Rec TDs,Skyy Moore,5.5,NFLFUT
-163,Single Stat,Rec TDs,Christian Watson,3.5,NFLFUT
-163,Single Stat,Receiving Yards,Skyy Moore,775.5,NFLFUT
-163,Single Stat,Rec TDs,Garrett Wilson,3.5,NFLFUT
-163,Single Stat,Rec TDs,Michael Pittman Jr.,6.5,NFLFUT
-163,Single Stat,Receptions,Michael Pittman Jr.,95.5,NFLFUT
-163,Single Stat,Receptions,Christian Watson,55.5,NFLFUT
-163,Single Stat,Receiving Yards,Chris Olave,725.5,NFLFUT
-163,Single Stat,Receptions,Chris Olave,60.5,NFLFUT
-163,Single Stat,Receiving Yards,Mark Andrews,1200.5,NFLFUT
-163,Single Stat,Pass TDs,Aaron Rodgers,30.5,NFLFUT
-163,Single Stat,Receptions,George Pickens,50.5,NFLFUT
-163,Single Stat,Rec TDs,Allen Robinson,6.5,NFLFUT
-163,Single Stat,Rec TDs,Diontae Johnson,5.5,NFLFUT
-163,Single Stat,Rec TDs,Tee Higgins,5.5,NFLFUT
-163,Single Stat,Receptions,Courtland Sutton,70.5,NFLFUT
-163,Single Stat,Receiving Yards,Courtland Sutton,950.5,NFLFUT
-163,Single Stat,Receptions,Mike Williams,79.5,NFLFUT
-163,Single Stat,Receptions,Tee Higgins,70.5,NFLFUT
-163,Single Stat,Receiving Yards,Christian Kirk,900.5,NFLFUT
-163,Single Stat,Receptions,Christian Kirk,72.5,NFLFUT
-163,Single Stat,Rec TDs,Courtland Sutton,4.5,NFLFUT
-163,Single Stat,Receptions,Allen Robinson,80.5,NFLFUT
-163,Single Stat,Rec TDs,Christian Kirk,4.5,NFLFUT
-163,Single Stat,Receptions,Travis Kelce,100.5,NFLFUT
-163,Single Stat,Receiving Yards,Travis Kelce,1200.5,NFLFUT
-163,Single Stat,Rec TDs,Travis Kelce,9.5,NFLFUT
-163,Single Stat,Rec TDs,Jerry Jeudy,5.5,NFLFUT
-163,Single Stat,Receiving Yards,Allen Robinson,1050.5,NFLFUT
-163,Single Stat,Receptions,Jerry Jeudy,75.5,NFLFUT
-163,Single Stat,Receiving Yards,Jerry Jeudy,975.5,NFLFUT
-163,Single Stat,Receiving Yards,Tee Higgins,1050.5,NFLFUT
-163,Single Stat,Rec TDs,Amari Cooper,5.5,NFLFUT
-163,Single Stat,Rec TDs,Mike Williams,7.5,NFLFUT
-163,Single Stat,Receiving Yards,Amari Cooper,900.5,NFLFUT
-163,Single Stat,Receiving Yards,Keenan Allen,1050.5,NFLFUT
-163,Single Stat,Receptions,Keenan Allen,95.5,NFLFUT
-163,Single Stat,Receptions,Diontae Johnson,100.5,NFLFUT
-163,Single Stat,Rec TDs,Keenan Allen,5.5,NFLFUT
-163,Single Stat,Receptions,D.J. Moore,91.5,NFLFUT
-163,Single Stat,Receiving Yards,D.J. Moore,1150.5,NFLFUT
-163,Single Stat,Receiving Yards,Darnell Mooney,1025.5,NFLFUT
-163,Single Stat,Rec TDs,Darnell Mooney,3.5,NFLFUT
-163,Single Stat,Receiving Yards,Diontae Johnson,1050.5,NFLFUT
-163,Single Stat,Rec TDs,Terry McLaurin,5.5,NFLFUT
-163,Single Stat,Pass TDs,Patrick Mahomes,33.5,NFLFUT
-163,Single Stat,Receiving Yards,Terry McLaurin,1100.5,NFLFUT
-163,Single Stat,Receptions,DK Metcalf,75.5,NFLFUT
-163,Single Stat,Receiving Yards,DK Metcalf,975.5,NFLFUT
-163,Single Stat,Rec TDs,D.J. Moore,4.5,NFLFUT
-163,Single Stat,Rec TDs,DK Metcalf,6.5,NFLFUT
-163,Single Stat,Receiving Yards,Mike Williams,1150.5,NFLFUT
+163,Single Stat,Receiving Yards,Courtland Sutton,900.5,NFLFUT
 163,Single Stat,Receptions,Amari Cooper,70.5,NFLFUT
-163,Single Stat,Receptions,Terry McLaurin,80.5,NFLFUT
-163,Single Stat,Receiving Yards,Garrett Wilson,725.5,NFLFUT
-163,Single Stat,Receptions,Ja'Marr Chase,75.5,NFLFUT
-163,Single Stat,Rec TDs,Drake London,4.5,NFLFUT
-163,Single Stat,Rush Yards,Dalvin Cook,1250.5,NFLFUT
-163,Single Stat,Rush TDs,Dalvin Cook,9.5,NFLFUT
-163,Single Stat,Rush TDs,Antonio Gibson,6.5,NFLFUT
-163,Single Stat,Rush Yards,Antonio Gibson,850.5,NFLFUT
-163,Single Stat,Rush TDs,Derrick Henry,14.5,NFLFUT
-163,Single Stat,Rush Yards,Derrick Henry,1450.5,NFLFUT
-163,Single Stat,Rush TDs,Javonte Williams,7.5,NFLFUT
-163,Single Stat,Rush Yards,Javonte Williams,1100.5,NFLFUT
-163,Single Stat,Rush Yards,Breece Hall,800.5,NFLFUT
-163,Single Stat,Rush TDs,Breece Hall,5.5,NFLFUT
-163,Single Stat,Rush TDs,Najee Harris,8.5,NFLFUT
-163,Single Stat,Rush Yards,Kenneth Walker III,650.5,NFLFUT
-163,Single Stat,Rush TDs,Christian McCaffrey,6.5,NFLFUT
-163,Single Stat,Rush Yards,Christian McCaffrey,999.5,NFLFUT
-163,Single Stat,Rush TDs,Damien Harris,8.5,NFLFUT
-163,Single Stat,Rush Yards,Damien Harris,850.5,NFLFUT
-163,Single Stat,Rush Yards,Melvin Gordon,750.5,NFLFUT
-163,Single Stat,Rush TDs,Melvin Gordon,5.5,NFLFUT
-163,Single Stat,Rush TDs,Austin Ekeler,8.5,NFLFUT
-163,Single Stat,Rush Yards,Austin Ekeler,725.5,NFLFUT
-163,Single Stat,Rush Yards,Josh Allen,650.5,NFLFUT
-163,Single Stat,Rush Yards,D'Andre Swift,850.5,NFLFUT
-163,Single Stat,Rush TDs,Kenneth Walker III,4.5,NFLFUT
-163,Single Stat,Rush TDs,D'Andre Swift,6.5,NFLFUT
-163,Single Stat,Rush Yards,Najee Harris,1150.5,NFLFUT
-163,Single Stat,Rush TDs,Joe Mixon,10.5,NFLFUT
-163,Single Stat,Pass Yards,Russell Wilson,3900.5,NFLFUT
-163,Single Stat,Pass TDs,Derek Carr,29.5,NFLFUT
-163,Single Stat,Pass Yards,Derek Carr,4500.5,NFLFUT
-163,Single Stat,Pass Yards,Tom Brady,4750.5,NFLFUT
-163,Single Stat,Pass TDs,Tom Brady,37.5,NFLFUT
-163,Single Stat,Rush Yards,Jalen Hurts,650.5,NFLFUT
-163,Single Stat,Pass TDs,Jalen Hurts,22.5,NFLFUT
-163,Single Stat,Pass Yards,Jalen Hurts,3450.5,NFLFUT
-163,Single Stat,Pass TDs,Justin Herbert,35.5,NFLFUT
-163,Single Stat,Pass Yards,Justin Herbert,4750.5,NFLFUT
-163,Single Stat,Rush Yards,Joe Mixon,1125.5,NFLFUT
-163,Single Stat,Pass TDs,Trevor Lawrence,22.5,NFLFUT
-163,Single Stat,Pass TDs,Matthew Stafford,36.5,NFLFUT
-163,Single Stat,Pass Yards,Matthew Stafford,4700.5,NFLFUT
-163,Single Stat,Pass Yards,Aaron Rodgers,3950.5,NFLFUT
-163,Single Stat,Rush Yards,Kyler Murray,450.5,NFLFUT
-163,Single Stat,Pass Yards,Kyler Murray,4000.5,NFLFUT
-163,Single Stat,Pass TDs,Kyler Murray,28.5,NFLFUT
-163,Single Stat,Rush TDs,Jonathan Taylor,13.5,NFLFUT
+163,Single Stat,Rec TDs,Amari Cooper,5.5,NFLFUT
+163,Single Stat,Rec TDs,Courtland Sutton,5.5,NFLFUT
+163,Single Stat,Receiving Yards,Chris Olave,715.5,NFLFUT
+163,Single Stat,Receptions,Courtland Sutton,65.5,NFLFUT
+163,Single Stat,Receptions,Chris Olave,60.5,NFLFUT
+163,Single Stat,Receiving Yards,Amari Cooper,900.5,NFLFUT
+163,Single Stat,Receiving Yards,Diontae Johnson,1000.5,NFLFUT
+163,Single Stat,Rec TDs,Allen Robinson,7.5,NFLFUT
+163,Single Stat,Receiving Yards,Allen Robinson,850.5,NFLFUT
+163,Single Stat,Rec TDs,Christian Watson,3.5,NFLFUT
+163,Single Stat,Receptions,Allen Robinson,76.5,NFLFUT
+163,Single Stat,Receptions,Jerry Jeudy,75.5,NFLFUT
+163,Single Stat,Receiving Yards,Jerry Jeudy,925.5,NFLFUT
+163,Single Stat,Rec TDs,Jerry Jeudy,6.5,NFLFUT
+163,Single Stat,Receptions,Travis Kelce,96.5,NFLFUT
+163,Single Stat,Receiving Yards,Travis Kelce,1100.5,NFLFUT
+163,Single Stat,Rec TDs,Travis Kelce,9.5,NFLFUT
+163,Single Stat,Rec TDs,Christian Kirk,5.5,NFLFUT
+163,Single Stat,Receptions,Christian Kirk,72.5,NFLFUT
+163,Single Stat,Receiving Yards,Christian Kirk,850.5,NFLFUT
+163,Single Stat,Rec TDs,Treylon Burks,4.5,NFLFUT
+163,Single Stat,Receptions,DK Metcalf,67.5,NFLFUT
+163,Single Stat,Receiving Yards,Christian Watson,600.5,NFLFUT
+163,Single Stat,Rec TDs,DK Metcalf,6.5,NFLFUT
+163,Single Stat,Rec TDs,George Pickens,2.5,NFLFUT
+163,Single Stat,Receptions,George Pickens,50.5,NFLFUT
+163,Single Stat,Rec TDs,Mike Williams,6.5,NFLFUT
+163,Single Stat,Receiving Yards,Mike Williams,1000.5,NFLFUT
+163,Single Stat,Receptions,Mike Williams,66.5,NFLFUT
+163,Single Stat,Receiving Yards,George Pickens,600.5,NFLFUT
+163,Single Stat,Receiving Yards,Skyy Moore,675.5,NFLFUT
+163,Single Stat,Receiving Yards,Mark Andrews,1000.5,NFLFUT
+163,Single Stat,Receptions,Mark Andrews,85.5,NFLFUT
+163,Single Stat,Rec TDs,Diontae Johnson,6.5,NFLFUT
+163,Single Stat,Receptions,Diontae Johnson,90.5,NFLFUT
+163,Single Stat,Rec TDs,D.J. Moore,4.5,NFLFUT
+163,Single Stat,Receiving Yards,D.J. Moore,1075.5,NFLFUT
+163,Single Stat,Receptions,D.J. Moore,91.5,NFLFUT
+163,Single Stat,Rec TDs,Mark Andrews,8.5,NFLFUT
+163,Single Stat,Receptions,Keenan Allen,95.5,NFLFUT
+163,Single Stat,Rec TDs,Skyy Moore,4.5,NFLFUT
+163,Single Stat,Receptions,Skyy Moore,53.5,NFLFUT
+163,Single Stat,Receptions,Christian Watson,51.5,NFLFUT
+163,Single Stat,Rec TDs,Terry McLaurin,6.5,NFLFUT
+163,Single Stat,Receiving Yards,Jahan Dotson,600.5,NFLFUT
+163,Single Stat,Receptions,Terry McLaurin,77.5,NFLFUT
+163,Single Stat,Receiving Yards,Terry McLaurin,1000.5,NFLFUT
+163,Single Stat,Receptions,Darnell Mooney,77.5,NFLFUT
+163,Single Stat,Receiving Yards,Darnell Mooney,950.5,NFLFUT
+163,Single Stat,Rec TDs,Darnell Mooney,4.5,NFLFUT
+163,Single Stat,Rec TDs,Jahan Dotson,3.5,NFLFUT
+163,Single Stat,Receptions,Jahan Dotson,50.5,NFLFUT
+163,Single Stat,Receptions,Michael Pittman Jr.,89.5,NFLFUT
+163,Single Stat,Receiving Yards,Michael Pittman Jr.,1025.5,NFLFUT
+163,Single Stat,Rec TDs,Michael Pittman Jr.,6.5,NFLFUT
+163,Single Stat,Rec TDs,Keenan Allen,7.5,NFLFUT
+163,Single Stat,Receiving Yards,Keenan Allen,1050.5,NFLFUT
+163,Single Stat,Receiving Yards,DK Metcalf,900.5,NFLFUT
+163,Single Stat,Rec TDs,Tee Higgins,7.5,NFLFUT
+163,Single Stat,Receptions,Tyler Lockett,63.5,NFLFUT
+163,Single Stat,Receptions,Tee Higgins,73.5,NFLFUT
+163,Single Stat,Rec TDs,Mike Gesicki,4.5,NFLFUT
+163,Single Stat,Rec TDs,Mike Evans,10.5,NFLFUT
+163,Single Stat,Receiving Yards,Mike Evans,1025.5,NFLFUT
+163,Single Stat,Receptions,Mike Evans,71.5,NFLFUT
+163,Single Stat,Receiving Yards,Michael Thomas,800.5,NFLFUT
+163,Single Stat,Rec TDs,Michael Thomas,5.5,NFLFUT
+163,Single Stat,Receptions,Michael Thomas,70.5,NFLFUT
+163,Single Stat,Receiving Yards,Kyle Pitts,900.5,NFLFUT
+163,Single Stat,Receptions,Kyle Pitts,68.5,NFLFUT
+163,Single Stat,Rec TDs,Kyle Pitts,4.5,NFLFUT
+163,Single Stat,Receptions,Jakobi Meyers,65.5,NFLFUT
+163,Single Stat,Receiving Yards,Jakobi Meyers,750.5,NFLFUT
+163,Single Stat,Rec TDs,Jakobi Meyers,3.0,NFLFUT
+163,Single Stat,Rec TDs,Hunter Renfrow,5.5,NFLFUT
+163,Single Stat,Receiving Yards,Hunter Renfrow,800.5,NFLFUT
+163,Single Stat,Receptions,Mike Gesicki,55.5,NFLFUT
+163,Single Stat,Receiving Yards,Mike Gesicki,600.5,NFLFUT
+163,Single Stat,Rec TDs,Rashod Bateman,5.5,NFLFUT
+163,Single Stat,Receiving Yards,Rashod Bateman,850.5,NFLFUT
+163,Single Stat,Rec TDs,Zach Ertz,4.5,NFLFUT
+163,Single Stat,Receiving Yards,Zach Ertz,625.5,NFLFUT
+163,Single Stat,Receptions,Zach Ertz,65.5,NFLFUT
+163,Single Stat,Rec TDs,Tyler Lockett,5.5,NFLFUT
+163,Single Stat,Receiving Yards,Treylon Burks,750.5,NFLFUT
+163,Single Stat,Receiving Yards,Tyler Lockett,810.5,NFLFUT
+163,Single Stat,Receptions,Tyler Boyd,68.5,NFLFUT
+163,Single Stat,Receptions,Hunter Renfrow,75.5,NFLFUT
+163,Single Stat,Receiving Yards,Tyler Boyd,795.5,NFLFUT
+163,Single Stat,Rec TDs,T.J. Hockenson,4.5,NFLFUT
+163,Single Stat,Receiving Yards,T.J. Hockenson,700.5,NFLFUT
+163,Single Stat,Receptions,T.J. Hockenson,68.5,NFLFUT
+163,Single Stat,Rec TDs,Robert Woods,4.5,NFLFUT
+163,Single Stat,Receptions,Robert Woods,64.5,NFLFUT
+163,Single Stat,Receiving Yards,Robert Woods,800.5,NFLFUT
+163,Single Stat,Receptions,Rashod Bateman,70.5,NFLFUT
+163,Single Stat,Rec TDs,Tyler Boyd,4.5,NFLFUT
+163,Single Stat,Rec TDs,George Kittle,5.5,NFLFUT
+163,Single Stat,Receiving Yards,George Kittle,825.5,NFLFUT
+163,Single Stat,Receptions,George Kittle,66.5,NFLFUT
+163,Single Stat,Rec TDs,Dallas Goedert,4.5,NFLFUT
+163,Single Stat,Receiving Yards,Chase Claypool,725.5,NFLFUT
+163,Single Stat,Rec TDs,Chase Claypool,4.5,NFLFUT
+163,Single Stat,Receptions,Chase Claypool,58.5,NFLFUT
+163,Single Stat,Receiving Yards,Brandon Aiyuk,775.5,NFLFUT
+163,Single Stat,Rec TDs,Brandon Aiyuk,4.5,NFLFUT
+163,Single Stat,Receptions,Brandon Aiyuk,57.5,NFLFUT
+163,Single Stat,Receptions,Dallas Goedert,59.5,NFLFUT
+163,Single Stat,Rec TDs,Amon-Ra St. Brown	,5.5,NFLFUT
+163,Single Stat,Receptions,Amon-Ra St. Brown	,77.5,NFLFUT
+163,Single Stat,Receiving Yards,Allen Lazard,750.5,NFLFUT
+163,Single Stat,Rec TDs,Allen Lazard,5.5,NFLFUT
+163,Single Stat,Receptions,Allen Lazard,55.5,NFLFUT
+163,Single Stat,Receptions,Adam Thielen,68.5,NFLFUT
+163,Single Stat,Receiving Yards,Adam Thielen,745.5,NFLFUT
+163,Single Stat,Rec TDs,Adam Thielen,7.5,NFLFUT
+163,Single Stat,Receiving Yards,Amon-Ra St. Brown	,850.5,NFLFUT
+163,Single Stat,Receiving Yards,Tee Higgins,975.5,NFLFUT
+163,Single Stat,Receiving Yards,Dallas Goedert,700.5,NFLFUT
+163,Single Stat,Receptions,Dalton Schultz,67.5,NFLFUT
+163,Single Stat,Receiving Yards,Gabriel Davis,875.5,NFLFUT
+163,Single Stat,Receptions,Gabriel Davis,60.5,NFLFUT
+163,Single Stat,Rec TDs,Gabriel Davis,7.5,NFLFUT
+163,Single Stat,Rec TDs,Elijah Moore	,4.5,NFLFUT
+163,Single Stat,Receptions,Elijah Moore	,64.5,NFLFUT
+163,Single Stat,Receiving Yards,Elijah Moore	,800.5,NFLFUT
+163,Single Stat,Receiving Yards,Devonta Smith,875.5,NFLFUT
+163,Single Stat,Receiving Yards,Dalton Schultz,725.5,NFLFUT
+163,Single Stat,Rec TDs,Devonta Smith,5.5,NFLFUT
+163,Single Stat,Receptions,Dawson Knox,50.5,NFLFUT
+163,Single Stat,Receiving Yards,Dawson Knox,540.5,NFLFUT
+163,Single Stat,Rec TDs,Dawson Knox,6.5,NFLFUT
+163,Single Stat,Receiving Yards,Darren Waller,860.5,NFLFUT
+163,Single Stat,Receptions,Darren Waller,71.5,NFLFUT
+163,Single Stat,Rec TDs,Darren Waller,5.5,NFLFUT
+163,Single Stat,Rec TDs,Dalton Schultz,5.5,NFLFUT
+163,Single Stat,Receptions,Devonta Smith,62.5,NFLFUT
+163,Single Stat,Receptions,Treylon Burks,60.5,NFLFUT
+163,Single Stat,INT,Aaron Rodgers,7.0,NFLFUT
 163,Single Stat,Receptions,Garrett Wilson,60.5,NFLFUT
-163,Single Stat,Rush Yards,Nick Chubb,1300.5,NFLFUT
-163,Single Stat,Rush TDs,Nick Chubb,11.5,NFLFUT
-163,Single Stat,Pass Yards,Trevor Lawrence,3950.5,NFLFUT
-163,Single Stat,Pass TDs,Josh Allen,35.5,NFLFUT
-163,Single Stat,Rush Yards,Jonathan Taylor,1400.5,NFLFUT
-163,Single Stat,Rush Yards,A.J. Dillon,875.5,NFLFUT
-163,Single Stat,Receiving Yards,Tyreek Hill,1100.5,NFLFUT
-163,Single Stat,Pass TDs,Russell Wilson,29.5,NFLFUT
-163,Single Stat,Receptions,Stefon Diggs,104.5,NFLFUT
-163,Single Stat,Receiving Yards,Stefon Diggs,1250.5,NFLFUT
-163,Single Stat,Rec TDs,Stefon Diggs,8.5,NFLFUT
-163,Single Stat,Rec TDs,CeeDee Lamb,7.5,NFLFUT
-163,Single Stat,Receiving Yards,CeeDee Lamb,1200.5,NFLFUT
-163,Single Stat,Receptions,CeeDee Lamb,87.5,NFLFUT
-163,Single Stat,Receiving Yards,Jaylen Waddle,1050.5,NFLFUT
-163,Single Stat,Rec TDs,Jaylen Waddle,5.5,NFLFUT
-163,Single Stat,Receptions,Jaylen Waddle,100.5,NFLFUT
-163,Single Stat,Receiving Yards,Brandin Cooks,950.5,NFLFUT
-163,Single Stat,Receptions,Brandin Cooks,80.5,NFLFUT
-163,Single Stat,Rec TDs,Brandin Cooks,5.5,NFLFUT
-163,Single Stat,Pass Yards,Josh Allen,4500.5,NFLFUT
-163,Single Stat,Receiving Yards,AJ Brown,1100.5,NFLFUT
-163,Single Stat,Receptions,AJ Brown,82.5,NFLFUT
-163,Single Stat,Rec TDs,AJ Brown,7.5,NFLFUT
-163,Single Stat,Receptions,Marquise Brown,90.5,NFLFUT
-163,Single Stat,Receiving Yards,Marquise Brown,1050.5,NFLFUT
-163,Single Stat,Rec TDs,Marquise Brown,6.5,NFLFUT
-163,Single Stat,Receptions,Drake London,60.5,NFLFUT
-163,Single Stat,Receiving Yards,Drake London,775.5,NFLFUT
-163,Single Stat,Rec TDs,Tyreek Hill,6.5,NFLFUT
-163,Single Stat,Receptions,Tyreek Hill,93.5,NFLFUT
-163,Single Stat,Pass TDs,Dak Prescott,34.5,NFLFUT
-163,Single Stat,Receiving Yards,Deebo Samuel,1050.5,NFLFUT
-163,Single Stat,Pass Yards,Dak Prescott,4550.5,NFLFUT
-163,Single Stat,Pass TDs,Joe Burrow,32.5,NFLFUT
-163,Single Stat,Rec TDs,Deebo Samuel,5.5,NFLFUT
-163,Single Stat,Pass Yards,Joe Burrow,4650.5,NFLFUT
-163,Single Stat,Pass Yards,Mac Jones,3850.5,NFLFUT
-163,Single Stat,Rush Yards,Lamar Jackson,950.5,NFLFUT
+163,Single Stat,INT,Ryan Tannehill,12.5,NFLFUT
+163,Single Stat,Pass TDs,Ryan Tannehill,21.5,NFLFUT
+163,Single Stat,Pass Yards,Ryan Tannehill,3600.5,NFLFUT
+163,Single Stat,Sacks,Robert Quinn,10.25,NFLFUT
+163,Single Stat,Tackles,Kyzir White	,116.5,NFLFUT
+163,Single Stat,Pass TDs,Davis Mills	,21.5,NFLFUT
+163,Single Stat,Pass Yards,Davis Mills	,3650.5,NFLFUT
+163,Single Stat,INT,Baker Mayfield,13.5,NFLFUT
+163,Single Stat,INT,Davis Mills	,14.5,NFLFUT
+163,Single Stat,INT,Tua Tagovailoa,12.5,NFLFUT
+163,Single Stat,Pass Yards,Tua Tagovailoa,3950.5,NFLFUT
+163,Single Stat,Pass TDs,Tua Tagovailoa,25.5,NFLFUT
+163,Single Stat,Tackles,Logan Wilson,111.5,NFLFUT
+163,Single Stat,Pass TDs,Jameis Winston,26.5,NFLFUT
+163,Single Stat,Pass Yards,Jameis Winston,3750.5,NFLFUT
+163,Single Stat,INT,Jameis Winston,13.5,NFLFUT
+163,Single Stat,Sacks,Shaquil Barrett,11.25,NFLFUT
+163,Single Stat,Pass Yards,Baker Mayfield,3650.5,NFLFUT
+163,Single Stat,Pass TDs,Baker Mayfield,22.5,NFLFUT
+163,Single Stat,Pass Yards,Lamar Jackson,3550.5,NFLFUT
+163,Single Stat,Pass Yards,Matt Ryan,3900.5,NFLFUT
+163,Single Stat,Pass TDs,Matt Ryan,25.5,NFLFUT
+163,Single Stat,Tackles,Eric Kendricks	,125.5,NFLFUT
+163,Single Stat,Sacks,Matthew Judon	,10.25,NFLFUT
+163,Single Stat,Sacks,Maxx Crosby ,9.75,NFLFUT
+163,Single Stat,Tackles,Foyesade Oluokun	,133.5,NFLFUT
+163,Single Stat,Tackles,Fred Warner	,129.5,NFLFUT
+163,Single Stat,Pass Yards,Mac Jones,3900.5,NFLFUT
 163,Single Stat,Pass TDs,Mac Jones,23.5,NFLFUT
-163,Single Stat,Pass Yards,Kirk Cousins,4250.5,NFLFUT
-163,Single Stat,Rush TDs,A.J. Dillon,7.5,NFLFUT
-163,Single Stat,Pass TDs,Matt Ryan,24.5,NFLFUT
-163,Single Stat,Pass Yards,Matt Ryan,3800.5,NFLFUT
+163,Single Stat,INT,Mac Jones,12.5,NFLFUT
+163,Single Stat,Sacks,Micah Parsons	,10.25,NFLFUT
+163,Single Stat,Tackles,Jordan Hicks,111.5,NFLFUT
+163,Single Stat,Sacks,Myles Garrett,13.25,NFLFUT
+163,Single Stat,Sacks,Nick Bosa,11.75,NFLFUT
+163,Single Stat,Tackles,Jordyn Brooks	,135.5,NFLFUT
+163,Single Stat,INT,Lamar Jackson,12.5,NFLFUT
+163,Single Stat,Pass TDs,Lamar Jackson,24.5,NFLFUT
+163,Single Stat,Sacks,T.J. Watt,14.25,NFLFUT
+163,Single Stat,Tackles,Minkah Fitzpatrick	,106.5,NFLFUT
+163,Single Stat,Sacks,Travon Walker,6.25,NFLFUT
+163,Single Stat,Tackles,Roquan Smith	,147.5,NFLFUT
+163,Single Stat,Rush TDs,Najee Harris,9.5,NFLFUT
+163,Single Stat,Rush Yards,Najee Harris,1200.5,NFLFUT
+163,Single Stat,Rush Yards,Dalvin Cook,1150.5,NFLFUT
+163,Single Stat,Rush TDs,Dalvin Cook,9.5,NFLFUT
+163,Single Stat,Rush Yards,Antonio Gibson,800.5,NFLFUT
+163,Single Stat,Rush TDs,Antonio Gibson,6.5,NFLFUT
+163,Single Stat,Rush Yards,Derrick Henry,1350.5,NFLFUT
+163,Single Stat,Rush TDs,Derrick Henry,13.5,NFLFUT
+163,Single Stat,Rush Yards,Javonte Williams,925.5,NFLFUT
+163,Single Stat,Rush TDs,Javonte Williams,7.5,NFLFUT
+163,Single Stat,Rush Yards,Breece Hall,850.5,NFLFUT
+163,Single Stat,Rush TDs,Breece Hall,5.5,NFLFUT
+163,Single Stat,Rush TDs,Kenneth Walker III,4.5,NFLFUT
+163,Single Stat,Rush Yards,Kenneth Walker III,650.5,NFLFUT
+163,Single Stat,Rec TDs,Garrett Wilson,3.5,NFLFUT
+163,Single Stat,Rush TDs,Christian McCaffrey,7.5,NFLFUT
+163,Single Stat,Rush TDs,Damien Harris,8.5,NFLFUT
+163,Single Stat,Rush Yards,Joe Mixon,1050.5,NFLFUT
+163,Single Stat,INT,Matt Ryan,11.5,NFLFUT
+163,Single Stat,Rush TDs,Joe Mixon,10.5,NFLFUT
+163,Single Stat,Rush Yards,Nick Chubb,1200.5,NFLFUT
+163,Single Stat,Tackles,Shaq Thompson	,111.5,NFLFUT
+163,Single Stat,Sacks,Trey Hendrickson	,11.75,NFLFUT
+163,Single Stat,Pass Yards,Justin Fields,3300.5,NFLFUT
+163,Single Stat,Pass TDs,Justin Fields,18.5,NFLFUT
+163,Single Stat,INT,Justin Fields,14.5,NFLFUT
+163,Single Stat,Rush Yards,Justin Fields,525.5,NFLFUT
+163,Single Stat,Rush TDs,Justin Fields,3.5,NFLFUT
+163,Single Stat,Sacks,Von Miller,9.75,NFLFUT
+163,Single Stat,Tackles,Tremaine Edmunds	,116.5,NFLFUT
+163,Single Stat,Sacks,Yannick Ngakoue,7.75,NFLFUT
+163,Single Stat,Tackles,Zach Cunningham	,126.5,NFLFUT
+163,Single Stat,Sacks,Za'Darius Smith	,10.25,NFLFUT
+163,Single Stat,Pass Yards,Zach Wilson,3725.5,NFLFUT
+163,Single Stat,INT,Zach Wilson,14.5,NFLFUT
+163,Single Stat,Pass TDs,Zach Wilson,22.5,NFLFUT
+163,Single Stat,Rush TDs,Jonathan Taylor,13.5,NFLFUT
+163,Single Stat,Rush Yards,Jonathan Taylor,1450.5,NFLFUT
+163,Single Stat,Rush TDs,Nick Chubb,10.5,NFLFUT
+163,Single Stat,Rush Yards,Damien Harris,850.5,NFLFUT
+163,Single Stat,Sacks,Khalil Mack,10.25,NFLFUT
+163,Single Stat,Tackles,Derwin James	,114.5,NFLFUT
+163,Single Stat,INT,Dak Prescott,10.5,NFLFUT
+163,Single Stat,Pass TDs,Dak Prescott,31.5,NFLFUT
+163,Single Stat,Pass Yards,Dak Prescott,4400.5,NFLFUT
+163,Single Stat,Sacks,Cameron Jordan,9.75,NFLFUT
+163,Single Stat,Pass Yards,Joe Burrow,4450.5,NFLFUT
+163,Single Stat,Pass TDs,Joe Burrow,34.5,NFLFUT
+163,Single Stat,INT,Joe Burrow,12.5,NFLFUT
+163,Single Stat,Rush Yards,Patrick Mahomes,325.5,NFLFUT
+163,Single Stat,INT,Jalen Hurts,10.5,NFLFUT
+163,Single Stat,Pass Yards,Jalen Hurts,3600.5,NFLFUT
+163,Single Stat,Rush Yards,Jalen Hurts,700.5,NFLFUT
+163,Single Stat,Tackles,Bobby Wagner,142.5,NFLFUT
+163,Single Stat,Sacks,Chandler Jones,11.5,NFLFUT
+163,Single Stat,INT,Kirk Cousins,10.5,NFLFUT
+163,Single Stat,Pass Yards,Kirk Cousins,4200.5,NFLFUT
 163,Single Stat,Pass TDs,Kirk Cousins,31.5,NFLFUT
-163,Single Stat,Rec TDs,Cooper Kupp,12.5,NFLFUT
-163,Single Stat,Receptions,Cooper Kupp,115.5,NFLFUT
-163,Single Stat,Receiving Yards,Davante Adams,1300.5,NFLFUT
+163,Single Stat,Pass TDs,Jalen Hurts,22.5,NFLFUT
+163,Single Stat,INT,Patrick Mahomes,10.5,NFLFUT
+163,Single Stat,Pass TDs,Patrick Mahomes,34.5,NFLFUT
+163,Single Stat,Pass Yards,Patrick Mahomes,4600.5,NFLFUT
+163,Single Stat,Pass Yards,Aaron Rodgers,4000.5,NFLFUT
+163,Single Stat,Pass TDs,Aaron Rodgers,31.5,NFLFUT
+163,Single Stat,Tackles,Alex Singleton	,120.5,NFLFUT
+163,Single Stat,Sacks,Aaron Donald,11.5,NFLFUT
+163,Single Stat,Pass Yards,Justin Herbert,4700.5,NFLFUT
+163,Single Stat,Pass TDs,Justin Herbert,36.5,NFLFUT
+163,Single Stat,INT,Justin Herbert,13.5,NFLFUT
+163,Single Stat,Sacks,Aidan Hutchinson,7.25,NFLFUT
+163,Single Stat,Tackles,Blake Martinez,129.5,NFLFUT
+163,Single Stat,Pass TDs,Matthew Stafford,34.5,NFLFUT
+163,Single Stat,Pass Yards,Matthew Stafford,4550.5,NFLFUT
+163,Single Stat,INT,Matthew Stafford,13.5,NFLFUT
+163,Single Stat,INT,Carson Wentz,10.5,NFLFUT
+163,Single Stat,Pass Yards,Carson Wentz,3550.5,NFLFUT
+163,Single Stat,Pass TDs,Carson Wentz,23.5,NFLFUT
+163,Single Stat,Sacks,Brian Burns,9.75,NFLFUT
+163,Single Stat,Tackles,Bobby Okereke	,109.5,NFLFUT
+163,Single Stat,Tackles,C.J. Mosley	,139.5,NFLFUT
+163,Single Stat,Pass TDs,Josh Allen,35.5,NFLFUT
+163,Single Stat,Pass Yards,Josh Allen,4400.5,NFLFUT
+163,Single Stat,INT,Josh Allen,11.5,NFLFUT
+163,Single Stat,Sacks,Harold Landry	,9.25,NFLFUT
+163,Single Stat,Tackles,Denzel Perryman	,114.5,NFLFUT
+163,Single Stat,Sacks,Joey Bosa,12.75,NFLFUT
+163,Single Stat,INT,Daniel Jones,11.5,NFLFUT
+163,Single Stat,Pass TDs,Daniel Jones,21.5,NFLFUT
+163,Single Stat,Pass Yards,Daniel Jones,3650.5,NFLFUT
+163,Single Stat,Rush Yards,Daniel Jones,350.5,NFLFUT
+163,Single Stat,Pass Yards,Tom Brady,4650.5,NFLFUT
+163,Single Stat,Pass TDs,Tom Brady,35.5,NFLFUT
+163,Single Stat,INT,Tom Brady,12.5,NFLFUT
+163,Single Stat,Pass Yards,Derek Carr,4500.5,NFLFUT
+163,Single Stat,Pass TDs,Derek Carr,29.5,NFLFUT
+163,Single Stat,INT,Derek Carr,12.5,NFLFUT
+163,Single Stat,Sacks,Kayvon Thibodeaux	,7.25,NFLFUT
+163,Single Stat,INT,Jared Goff,11.5,NFLFUT
+163,Single Stat,Pass TDs,Jared Goff,23.5,NFLFUT
+163,Single Stat,Pass Yards,Jared Goff,3850.5,NFLFUT
+163,Single Stat,Rush Yards,Trey Lance,500.5,NFLFUT
+163,Single Stat,Tackles,Devin White	,126.5,NFLFUT
+163,Single Stat,Rush TDs,Trey Lance,5.5,NFLFUT
+163,Single Stat,Pass TDs,Trey Lance,21.5,NFLFUT
+163,Single Stat,Rush Yards,Josh Allen,575.5,NFLFUT
+163,Single Stat,Tackles,Cole Holcomb ,118.5,NFLFUT
+163,Single Stat,Sacks,Chase Young,7.75,NFLFUT
+163,Single Stat,INT,Russell Wilson,10.5,NFLFUT
+163,Single Stat,Pass Yards,Russell Wilson,4100.5,NFLFUT
+163,Single Stat,Pass TDs,Russell Wilson,31.5,NFLFUT
+163,Single Stat,Sacks,Danielle Hunter	,11.25,NFLFUT
+163,Single Stat,Pass Yards,Kyler Murray,4000.5,NFLFUT
+163,Single Stat,Pass TDs,Kyler Murray,25.5,NFLFUT
+163,Single Stat,INT,Kyler Murray,12.5,NFLFUT
+163,Single Stat,Rush Yards,Kyler Murray,500.5,NFLFUT
+163,Single Stat,Tackles,Darius Leonard	,137.5,NFLFUT
+163,Single Stat,Tackles,De'Vondre Campbell	,122.5,NFLFUT
+163,Single Stat,Pass TDs,Trevor Lawrence,22.5,NFLFUT
+163,Single Stat,Pass Yards,Trevor Lawrence,3950.5,NFLFUT
+163,Single Stat,INT,Trevor Lawrence,14.5,NFLFUT
+163,Single Stat,INT,Trey Lance,10.5,NFLFUT
+163,Single Stat,Pass Yards,Trey Lance,3450.5,NFLFUT
+163,Single Stat,Rush Yards,Melvin Gordon,725.5,NFLFUT
+163,Single Stat,Rush Yards,Christian McCaffrey,925.5,NFLFUT
+163,Single Stat,Rush TDs,Austin Ekeler,8.0,NFLFUT
 163,Single Stat,Receptions,Deebo Samuel,68.5,NFLFUT
-163,Single Stat,Receptions,Justin Jefferson,99.5,NFLFUT
-163,Single Stat,Receiving Yards,Justin Jefferson,1475.5,NFLFUT
-163,Single Stat,Receiving Yards,Ja'Marr Chase,1300.5,NFLFUT
-163,Single Stat,Rec TDs,Davante Adams,9.5,NFLFUT
-163,Single Stat,Rec TDs,Justin Jefferson,9.5,NFLFUT
-163,Single Stat,Rec TDs,Ja'Marr Chase,10.5,NFLFUT
-163,Single Stat,Receiving Yards,Cooper Kupp,1450.5,NFLFUT
+163,Single Stat,Rec TDs,Ja'Marr Chase,11.5,NFLFUT
+163,Single Stat,Receiving Yards,Ja'Marr Chase,1250.5,NFLFUT
+163,Single Stat,Receptions,Ja'Marr Chase,75.5,NFLFUT
+163,Single Stat,Rec TDs,Davante Adams,10.5,NFLFUT
 163,Single Stat,Receptions,Davante Adams,102.5,NFLFUT
-8,Single Stat,Assists,Nikita Kucherov,0.5,NHL
-8,Single Stat,Shots On Goal,Mikhail Sergachev,1.5,NHL
-8,Single Stat,Shots On Goal,Nikita Kucherov,3.0,NHL
-8,Single Stat,Assists,Nathan MacKinnon,0.5,NHL
-8,Single Stat,Shots On Goal,Nathan MacKinnon,5.0,NHL
-8,Single Stat,Goals Allowed,Andrei Vasilevskiy,2.5,NHL
-8,Single Stat,Goalie Saves,Andrei Vasilevskiy,33.5,NHL
-8,Single Stat,Shots On Goal,Cale Makar,3.5,NHL
-8,Single Stat,Shots On Goal,Steven Stamkos,3.0,NHL
-8,Single Stat,Goalie Saves,Darcy Kuemper,25.5,NHL
-8,Single Stat,Shots On Goal,Gabriel Landeskog,3.0,NHL
-8,Single Stat,Shots On Goal,Valeri Nichushkin,3.0,NHL
-8,Single Stat,Assists,Victor Hedman,0.5,NHL
-8,Single Stat,Shots On Goal,Victor Hedman,3.0,NHL
-8,Single Stat,Shots On Goal,Devon Toews,2.0,NHL
-8,Single Stat,Shots On Goal,Corey Perry,1.5,NHL
-8,Single Stat,Assists,Mikko Rantanen,0.5,NHL
-8,Single Stat,Shots On Goal,Artturi Lehkonen,2.0,NHL
-8,Single Stat,Shots On Goal,Mikko Rantanen,3.0,NHL
-8,Single Stat,Shots On Goal,Nazem Kadri,3.0,NHL
-8,Single Stat,Goals Allowed,Darcy Kuemper,2.5,NHL
-8,Single Stat,Points,Artturi Lehkonen,0.5,NHL
-8,Single Stat,Points,Ondrej Palat,0.5,NHL
-8,Single Stat,Shots On Goal,Ondrej Palat,2.0,NHL
-8,Single Stat,Shots On Goal,Alex Killorn,2.0,NHL
-1,Single Stat,Fairways Hit,Harold Varner III,8.5,PGA
-1,Single Stat,Greens In Regulation,Harold Varner III,13.0,PGA
-1,Single Stat,Birdies Or Better,Webb Simpson,4.5,PGA
-1,Single Stat,Birdies Or Better,Chez Reavie,4.0,PGA
-1,Single Stat,Strokes,Patrick Cantlay,66.5,PGA
-1,Single Stat,Birdies Or Better,Patrick Cantlay,5.0,PGA
-1,Single Stat,Birdies Or Better Matchup,Patrick Cantlay,0.0,PGA
-1,Single Stat,Birdies Or Better Matchup,Kevin Kisner,0.0,PGA
-1,Single Stat,Greens In Regulation,Kevin Kisner,12.5,PGA
-1,Single Stat,Fairways Hit,Kevin Kisner,10.0,PGA
-1,Single Stat,Fairways Hit,Xander Schauffele,10.0,PGA
-1,Single Stat,Greens In Regulation,Xander Schauffele,14.0,PGA
-1,Single Stat,Fairways Hit,Scottie Scheffler,10.0,PGA
-1,Single Stat,Greens In Regulation,Scottie Scheffler,14.0,PGA
-1,Single Stat,Birdies Or Better Matchup,Scottie Scheffler,0.0,PGA
-1,Single Stat,Strokes,Xander Schauffele,66.5,PGA
-1,Single Stat,Birdies Or Better,Xander Schauffele,5.0,PGA
-1,Single Stat,Birdies Or Better Matchup,Xander Schauffele,0.0,PGA
-1,Single Stat,Strokes,Chez Reavie,68.0,PGA
-1,Single Stat,Strokes,Rory McIlroy,66.5,PGA
-1,Single Stat,Strokes,Scottie Scheffler,66.5,PGA
-1,Single Stat,Birdies Or Better,Tony Finau,4.5,PGA
-1,Single Stat,Strokes,Tony Finau,67.5,PGA
-1,Single Stat,Birdies Or Better,Harris English,4.5,PGA
-1,Single Stat,Strokes,Harris English,67.0,PGA
-1,Single Stat,Birdies Or Better,Kevin Kisner,4.5,PGA
-1,Single Stat,Strokes,Kevin Kisner,67.5,PGA
-1,Single Stat,Birdies Or Better,Seamus Power,4.5,PGA
-1,Single Stat,Strokes,Seamus Power,67.5,PGA
-1,Single Stat,Strokes,Webb Simpson,67.5,PGA
-1,Single Stat,Birdies Or Better,Tommy Fleetwood,4.0,PGA
-1,Single Stat,Strokes,Tommy Fleetwood,68.0,PGA
-1,Single Stat,Birdies Or Better,Keegan Bradley,4.0,PGA
-1,Single Stat,Strokes,Keegan Bradley,68.0,PGA
-1,Single Stat,Birdies Or Better,Scottie Scheffler,5.0,PGA
-1,Single Stat,Birdies Or Better,Rory McIlroy,5.0,PGA
-1,Single Stat,Birdies Or Better Matchup,Tommy Fleetwood,0.0,PGA
-1,Single Stat,Fairways Hit,Chez Reavie,10.5,PGA
-1,Single Stat,Greens In Regulation,Patrick Cantlay,13.5,PGA
-1,Single Stat,Fairways Hit,Patrick Cantlay,9.0,PGA
-1,Single Stat,Greens In Regulation,Keegan Bradley,13.0,PGA
-1,Single Stat,Birdies Or Better Matchup,Luke Donald,0.0,PGA
-1,Single Stat,Fairways Hit,Keegan Bradley,9.5,PGA
-1,Single Stat,Birdies Or Better Matchup,Lucas Glover,0.0,PGA
-1,Single Stat,Birdies Or Better Matchup,Brian Harman,0.0,PGA
-1,Single Stat,Greens In Regulation,Chez Reavie,13.0,PGA
-1,Single Stat,Birdies Or Better Matchup,Seamus Power,0.0,PGA
-1,Single Stat,Birdies Or Better Matchup,Tony Finau,0.0,PGA
-1,Single Stat,Fairways Hit,Tony Finau,8.5,PGA
-1,Single Stat,Fairways Hit,Seamus Power,9.0,PGA
-1,Single Stat,Greens In Regulation,Seamus Power,13.0,PGA
-1,Single Stat,Birdies Or Better Matchup,Webb Simpson,0.0,PGA
-1,Single Stat,Greens In Regulation,Webb Simpson,13.0,PGA
-1,Single Stat,Fairways Hit,Webb Simpson,10.0,PGA
-1,Single Stat,Greens In Regulation,Tony Finau,13.0,PGA
-1,Single Stat,Fairways Hit,Harris English,8.5,PGA
-1,Single Stat,Greens In Regulation,Harris English,13.0,PGA
-1,Single Stat,Greens In Regulation,Rory McIlroy,13.5,PGA
-1,Single Stat,Birdies Or Better Matchup,Rush TDs,0.0,PGA
-1,Single Stat,Greens In Regulation,Tommy Fleetwood,12.5,PGA
-1,Single Stat,Fairways Hit,Rush TDs,9.0,PGA
-1,Single Stat,Fairways Hit,Tommy Fleetwood,9.0,PGA
-1,Single Stat,Fairways Hit,Rory McIlroy,9.0,PGA
-1,Single Stat,Birdies Or Better Matchup,Keegan Bradley,0.0,PGA
-1,Single Stat,Greens In Regulation,Rush TDs,12.5,PGA
-5,Single Stat,Total Games,Bianca Andreescu,21.0,Tennis
-5,Single Stat,Aces,Bianca Andreescu,3.5,Tennis
-5,Fantasy Score,Fantasy Score,Bianca Andreescu,20.5,Tennis
-5,Single Stat,Aces,Petra Kvitova,6.0,Tennis
-5,Single Stat,Aces,Caroline Garcia ,7.0,Tennis
-5,Single Stat,Aces,Jeļena Ostapenko,4.0,Tennis
-5,Single Stat,Total Games,Jeļena Ostapenko,22.0,Tennis
-5,Fantasy Score,Fantasy Score,Jeļena Ostapenko,14.0,Tennis
-5,Single Stat,Break Points Won,Jeļena Ostapenko,3.5,Tennis
-5,Single Stat,Break Points Won,Bianca Andreescu,4.0,Tennis
-5,Single Stat,Break Points Won,Stefanos Tsitsipas,2.5,Tennis
-5,Single Stat,Aces,Roberto Bautista-Agut,2.0,Tennis
-5,Single Stat,Total Games,Taylor Fritz,25.5,Tennis
-5,Fantasy Score,Fantasy Score,Stefanos Tsitsipas,21.0,Tennis
-5,Single Stat,Total Games,Stefanos Tsitsipas,23.5,Tennis
-5,Single Stat,Aces,Stefanos Tsitsipas,9.5,Tennis
-5,Single Stat,Aces,Maxime Cressy,14.5,Tennis
-5,Single Stat,Break Points Won,Taylor Fritz,1.0,Tennis
-5,Single Stat,Aces,Taylor Fritz,10.0,Tennis
-5,Fantasy Score,Fantasy Score,Taylor Fritz,17.5,Tennis
-12,Single Stat,Fight Time (Mins),Carlos Ulberg,10.0,UFC
-12,Fantasy Score,Fantasy Score,Carlos Ulberg,72.5,UFC
-12,Single Stat,Significant Strikes,Arman Tsarukyan,86.5,UFC
-12,Single Stat,Significant Strikes,Carlos Ulberg,56.5,UFC
-12,Single Stat,Significant Strikes,TJ Brown,57.5,UFC
-12,Single Stat,Significant Strikes,Shavkat Rakhmonov,32.5,UFC
-12,Fantasy Score,Fantasy Score,Shavkat Rakhmonov,110.5,UFC
-12,Single Stat,Takedowns,Shavkat Rakhmonov,1.5,UFC
-12,Single Stat,Fight Time (Mins),Shavkat Rakhmonov,11.5,UFC
-12,Fantasy Score,Fantasy Score,TJ Brown,87.5,UFC
-12,Single Stat,Significant Strikes,Alan Baudot,50.5,UFC
-12,Single Stat,Fight Time (Mins),Chris Curtis	,6.0,UFC
-12,Fantasy Score,Fantasy Score,Alan Baudot,78.5,UFC
-12,Single Stat,Takedowns,Rodolfo Vieira,1.5,UFC
-12,Single Stat,Significant Strikes,Chris Curtis	,37.5,UFC
-12,Fantasy Score,Fantasy Score,Chris Curtis	,84.5,UFC
-12,Single Stat,Takedowns,Thiago Moises,1.5,UFC
-12,Single Stat,Significant Strikes,Thiago Moises,35.5,UFC
-12,Fantasy Score,Fantasy Score,Thiago Moises,94.5,UFC
-12,Single Stat,Fight Time (Mins),Thiago Moises,12.5,UFC
-12,Single Stat,Fight Time (Mins),Umar Nurmagomedov,9.5,UFC
-12,Fantasy Score,Fantasy Score,Umar Nurmagomedov,111.5,UFC
-12,Single Stat,Fight Time (Mins),Alan Baudot,10.0,UFC
-12,Single Stat,Takedowns,Umar Nurmagomedov,2.5,UFC
-12,Single Stat,Significant Strikes,Umar Nurmagomedov,38.5,UFC
-12,Single Stat,Fight Time (Mins),Arman Tsarukyan,22.5,UFC
-12,Single Stat,Takedowns,Jinh Yu Frey,1.0,UFC
-12,Fantasy Score,Fantasy Score,Jinh Yu Frey,75.5,UFC
-12,Single Stat,Significant Strikes,Jinh Yu Frey,45.5,UFC
-12,Single Stat,Fight Time (Mins),Mario Bautista,12.5,UFC
-12,Fantasy Score,Fantasy Score,Mario Bautista,83.5,UFC
-12,Single Stat,Significant Strikes,Mario Bautista,68.5,UFC
-12,Fantasy Score,Fantasy Score,Arman Tsarukyan,106.5,UFC
-12,Fantasy Score,Fantasy Score,JP Buys,70.5,UFC
-12,Single Stat,Significant Strikes,JP Buys,30.5,UFC
-12,Single Stat,Takedowns,Cody Durden,2.5,UFC
-12,Single Stat,Significant Strikes,Sergey Morozov,38.5,UFC
-12,Fantasy Score,Fantasy Score,Sergey Morozov,76.5,UFC
-12,Single Stat,Takedowns,Sergey Morozov,2.5,UFC
-191,Single Stat,Pass Yards,J'Mar Smith,185.5,USFL
-191,Single Stat,Rush Yards,Matt Colburn II,50.5,USFL
-191,Single Stat,Pass Yards,Case Cookus,200.5,USFL
-191,Fantasy Score,Fantasy Score,Matt Colburn II,11.5,USFL
-191,Fantasy Score,Fantasy Score,Bo Scarbrough,8.5,USFL
-191,Single Stat,Rush Yards,Bo Scarbrough,40.5,USFL
-191,Single Stat,Receiving Yards,KaVontae Turpin,60.5,USFL
-191,Fantasy Score,Fantasy Score,Darrius Shepherd,9.5,USFL
-191,Single Stat,Receiving Yards,Victor Bolden Jr.,50.5,USFL
-191,Fantasy Score,Fantasy Score,KaVontae Turpin,13.5,USFL
-191,Fantasy Score,Fantasy Score,J'Mar Smith,15.5,USFL
-191,Fantasy Score,Fantasy Score,Victor Bolden Jr.,10.5,USFL
-191,Single Stat,Pass Yards,Kyle Sloter,210.5,USFL
-191,Fantasy Score,Fantasy Score,Kyle Sloter,14.5,USFL
-191,Single Stat,Receiving Yards,Johnnie Dixon,35.5,USFL
-191,Single Stat,Rush Yards,Jordan Ellis,45.5,USFL
-191,Fantasy Score,Fantasy Score,Jordan Ellis,9.5,USFL
-191,Fantasy Score,Fantasy Score,Johnnie Dixon,8.5,USFL
-191,Single Stat,Receiving Yards,Darrius Shepherd,40.5,USFL
-191,Fantasy Score,Fantasy Score,Case Cookus,15.5,USFL
-191,Single Stat,Receiving Yards,Marlon Williams,50.5,USFL
-191,Single Stat,Receiving Yards,Bug Howard,37.5,USFL
-191,Fantasy Score,Fantasy Score,Bug Howard,9.5,USFL
-191,Single Stat,Receiving Yards,Sal Cannella,35.5,USFL
-191,Fantasy Score,Fantasy Score,Sal Cannella,8.5,USFL
-191,Single Stat,Receiving Yards,Jordan Suell,40.5,USFL
-191,Fantasy Score,Fantasy Score,Trey Williams,11.5,USFL
-191,Fantasy Score,Fantasy Score,Darius Victor,9.5,USFL
-191,Fantasy Score,Fantasy Score,Jordan Suell,9.5,USFL
-191,Fantasy Score,Fantasy Score,Marlon Williams,10.5,USFL
-191,Fantasy Score,Fantasy Score,Jonathan Adams,10.5,USFL
-191,Single Stat,Rush Yards,Trey Williams,55.5,USFL
-191,Single Stat,Receiving Yards,Jonathan Adams,45.5,USFL
-191,Single Stat,Rush Yards,Darius Victor,50.5,USFL
-3,Single Stat,Points,Dearica Hamby,14.5,WNBA
-3,Single Stat,Points,Kelsey Plum,19.5,WNBA
-3,Single Stat,Points,Nneka Ogwumike,17.5,WNBA
-3,Single Stat,Points,Tina Charles,18.5,WNBA
-3,Single Stat,Points,Chelsea Gray,13.5,WNBA
-3,Single Stat,Points,Diana Taurasi,16.5,WNBA
-3,Single Stat,Points,A'ja Wilson,19.5,WNBA
-3,Single Stat,Points,Elena Delle Donne,15.5,WNBA
-3,Single Stat,Points,Breanna Stewart,19.5,WNBA
-3,Single Stat,Points,Marina Mabrey,13.5,WNBA
-3,Single Stat,Points,Brianna Turner,5.5,WNBA
-3,Single Stat,Points,Ariel Atkins,13.5,WNBA
-3,Single Stat,Points,Skylar Diggins-Smith,17.5,WNBA
-3,Single Stat,Points,Liz Cambage,9.5,WNBA
-3,Single Stat,Points,Diamond DeShields,10.5,WNBA
-3,Single Stat,Points,Shakira Austin,8.5,WNBA
-3,Single Stat,Points,Allisha Gray,13.5,WNBA
-3,Single Stat,Points,Isabelle Harrison,10.5,WNBA
-3,Single Stat,Points,Natasha Cloud,8.5,WNBA
-3,Single Stat,Points,Shey Peddy,9.5,WNBA
-3,Single Stat,Points,Jackie Young,18.5,WNBA
-3,Single Stat,Points,Brittney Sykes,9.5,WNBA
-3,Single Stat,Points,Katie Lou Samuelson,11.5,WNBA
-3,Single Stat,Points,Alysha Clark,8.5,WNBA
-3,Single Stat,Points,Arike Ogunbowale,20.5,WNBA
-3,Single Stat,Points,Ezi Magbegor,11.5,WNBA
-3,Single Stat,Points,Gabby Williams,4.5,WNBA
-3,Single Stat,Points,Kristi Toliver,5.5,WNBA
-3,Single Stat,Points,Sue Bird,8.5,WNBA
-3,Single Stat,Points,Kayla Thornton,5.5,WNBA
-3,Single Stat,Points,Jewell Loyd,15.5,WNBA
-193,Single Stat,Points,Nneka Ogwumike,8.5,WNBA1H
-193,Single Stat,Points,Kayla Thornton,2.5,WNBA1H
-193,Single Stat,Points,Marina Mabrey,6.5,WNBA1H
-193,Single Stat,Points,Sue Bird,4.5,WNBA1H
-193,Single Stat,Points,Dearica Hamby,7.5,WNBA1H
-193,Single Stat,Points,Arike Ogunbowale,10.5,WNBA1H
-193,Single Stat,Points,Skylar Diggins-Smith,9.0,WNBA1H
-193,Single Stat,Points,Ariel Atkins,6.5,WNBA1H
-193,Single Stat,Points,Ezi Magbegor,5.5,WNBA1H
-193,Single Stat,Points,Tina Charles,9.5,WNBA1H
-193,Single Stat,Points,Natasha Cloud,4.5,WNBA1H
-193,Single Stat,Points,Brittney Sykes,4.5,WNBA1H
-193,Single Stat,Points,Allisha Gray,6.5,WNBA1H
-193,Single Stat,Points,Shakira Austin,4.5,WNBA1H
-193,Single Stat,Points,Diamond DeShields,4.5,WNBA1H
-193,Single Stat,Points,Jackie Young,9.5,WNBA1H
-193,Single Stat,Points,Diana Taurasi,8.0,WNBA1H
-193,Single Stat,Points,Liz Cambage,4.5,WNBA1H
-193,Single Stat,Points,Katie Lou Samuelson,5.5,WNBA1H
-193,Single Stat,Points,Jewell Loyd,7.5,WNBA1H
-193,Single Stat,Points,Shey Peddy,5.0,WNBA1H
-193,Single Stat,Points,Kristi Toliver,2.5,WNBA1H
-193,Single Stat,Points,A'ja Wilson,9.5,WNBA1H
-193,Single Stat,Points,Elena Delle Donne,7.5,WNBA1H
-193,Single Stat,Points,Breanna Stewart,10.5,WNBA1H
-193,Single Stat,Points,Brianna Turner,3.0,WNBA1H
-193,Single Stat,Points,Gabby Williams,2.5,WNBA1H
-193,Single Stat,Points,Alysha Clark,4.5,WNBA1H
-193,Single Stat,Points,Chelsea Gray,6.5,WNBA1H
-193,Single Stat,Points,Isabelle Harrison,5.5,WNBA1H
-193,Single Stat,Points,Kelsey Plum,10.0,WNBA1H
-6,Single Stat,Shots On Target,Ola Kamara,0.5,
-6,Single Stat,Shots,Ola Kamara,1.5,
-159,Fantasy Score,Fantasy Score,Sayf,121.5,
-159,Fantasy Score,Fantasy Score,Leo,118.5,
-159,Fantasy Score,Fantasy Score,trexx,122.5,
-159,Fantasy Score,Fantasy Score,Zyppan,116.5,
-159,Fantasy Score,Fantasy Score,Shao,104.5,
-159,Fantasy Score,Fantasy Score,SUYGETSU,113.5,
+163,Single Stat,Receiving Yards,Davante Adams,1200.5,NFLFUT
+163,Single Stat,Receiving Yards,Justin Jefferson,1350.5,NFLFUT
+163,Single Stat,Rec TDs,Justin Jefferson,9.5,NFLFUT
+163,Single Stat,Receptions,Justin Jefferson,99.5,NFLFUT
+163,Single Stat,Receiving Yards,Cooper Kupp,1300.5,NFLFUT
+163,Single Stat,Receptions,Cooper Kupp,113.5,NFLFUT
+163,Single Stat,Rec TDs,Cooper Kupp,11.5,NFLFUT
+163,Single Stat,Rush TDs,Travis Etienne Jr.,5.5,NFLFUT
+163,Single Stat,Rush TDs,Melvin Gordon,5.5,NFLFUT
+163,Single Stat,Rush Yards,Tony Pollard,690.5,NFLFUT
+163,Single Stat,Rush TDs,Tony Pollard,3.5,NFLFUT
+163,Single Stat,Rush Yards,Saquon Barkley,875.5,NFLFUT
+163,Single Stat,Rush TDs,Saquon Barkley,7.5,NFLFUT
+163,Single Stat,Rec TDs,Deebo Samuel,6.5,NFLFUT
+163,Single Stat,Rush TDs,Rashaad Penny,6.5,NFLFUT
+163,Single Stat,Rec TDs,Tyreek Hill,8.5,NFLFUT
+163,Single Stat,Receptions,Tyreek Hill,87.5,NFLFUT
+163,Single Stat,Receiving Yards,Garrett Wilson,749.5,NFLFUT
+163,Single Stat,Receptions,Drake London,60.5,NFLFUT
+163,Single Stat,Rec TDs,Drake London,4.5,NFLFUT
+163,Single Stat,Receiving Yards,Drake London,775.5,NFLFUT
+163,Single Stat,Rec TDs,AJ Brown,6.5,NFLFUT
+163,Single Stat,Receptions,AJ Brown,73.5,NFLFUT
+163,Single Stat,Receiving Yards,AJ Brown,1025.5,NFLFUT
+163,Single Stat,Receiving Yards,Brandin Cooks,950.5,NFLFUT
+163,Single Stat,Rec TDs,Brandin Cooks,5.5,NFLFUT
+163,Single Stat,Receptions,Brandin Cooks,80.5,NFLFUT
+163,Single Stat,Receiving Yards,Jaylen Waddle,925.5,NFLFUT
+163,Single Stat,Rec TDs,Jaylen Waddle,5.5,NFLFUT
+163,Single Stat,Receptions,Jaylen Waddle,87.5,NFLFUT
+163,Single Stat,Receiving Yards,CeeDee Lamb,1175.5,NFLFUT
+163,Single Stat,Rec TDs,CeeDee Lamb,7.5,NFLFUT
+163,Single Stat,Receptions,CeeDee Lamb,87.5,NFLFUT
+163,Single Stat,Rec TDs,Stefon Diggs,8.5,NFLFUT
+163,Single Stat,Receiving Yards,Stefon Diggs,1200.5,NFLFUT
+163,Single Stat,Receptions,Stefon Diggs,101.5,NFLFUT
+163,Single Stat,Receiving Yards,Tyreek Hill,1025.5,NFLFUT
+163,Single Stat,Rush Yards,Rashaad Penny,775.5,NFLFUT
+163,Single Stat,Rush Yards,Travis Etienne Jr.,700.5,NFLFUT
+163,Single Stat,Receiving Yards,Deebo Samuel,950.5,NFLFUT
+163,Single Stat,Rush TDs,Miles Sanders,5.0,NFLFUT
+163,Single Stat,Rush Yards,Miles Sanders,800.5,NFLFUT
+163,Single Stat,Rush Yards,Josh Jacobs,750.5,NFLFUT
+163,Single Stat,Rush TDs,Josh Jacobs,7.5,NFLFUT
+163,Single Stat,Rush Yards,James Conner,825.5,NFLFUT
+163,Single Stat,Rush TDs,Ezekiel Elliott,8.5,NFLFUT
+163,Single Stat,Rush Yards,Ezekiel Elliott,875.5,NFLFUT
+163,Single Stat,Rush TDs,Elijah Mitchell	,6.5,NFLFUT
+163,Single Stat,Rush Yards,Elijah Mitchell	,925.5,NFLFUT
+163,Single Stat,Rush TDs,Devin Singletary,5.5,NFLFUT
+163,Single Stat,Rush Yards,Devin Singletary,750.5,NFLFUT
+163,Single Stat,Rush Yards,David Montgomery,900.5,NFLFUT
+163,Single Stat,Rush Yards,Clyde Edwards-Helaire,700.5,NFLFUT
+163,Single Stat,Rush TDs,James Conner,9.0,NFLFUT
+163,Single Stat,Rush TDs,Cam Akers,8.0,NFLFUT
+163,Single Stat,Rush Yards,D'Andre Swift,850.5,NFLFUT
+163,Single Stat,Rush TDs,D'Andre Swift,6.5,NFLFUT
+163,Single Stat,Rush TDs,Clyde Edwards-Helaire,5.0,NFLFUT
+163,Single Stat,Rush Yards,Cam Akers,925.5,NFLFUT
+163,Single Stat,Rush Yards,A.J. Dillon,800.5,NFLFUT
+163,Single Stat,Rush Yards,Austin Ekeler,800.5,NFLFUT
+163,Single Stat,Rush TDs,A.J. Dillon,6.5,NFLFUT
+163,Single Stat,Rush Yards,Lamar Jackson,950.5,NFLFUT
+5,Single Stat,Aces,Yoshihito Nishioka,2.0,Tennis
+5,Single Stat,Total Games,Daria Kasatkina,21.5,Tennis
+5,Single Stat,Aces,Nick Kyrgios,18.5,Tennis
+5,Fantasy Score,Fantasy Score,Nick Kyrgios,27.5,Tennis
+5,Single Stat,Break Points Won,Nick Kyrgios,2.5,Tennis
+5,Single Stat,Total Games,Nick Kyrgios,21.0,Tennis
+5,Single Stat,Aces,Shelby Rogers,3.5,Tennis
+5,Single Stat,Aces,Daria Kasatkina,2.0,Tennis
+5,Fantasy Score,Fantasy Score,Daria Kasatkina,16.0,Tennis
+5,Single Stat,Break Points Won,Daria Kasatkina,5.0,Tennis
+3,Fantasy Score,Fantasy Score,Jessica Shepard,19.5,WNBA
+3,Single Stat,Assists,Jessica Shepard,2.5,WNBA
+3,Single Stat,Turnovers,Jessica Shepard,1.5,WNBA
+3,Single Stat,Points,Naz Hillmon,6.5,WNBA
+3,Single Stat,Pts+Rebs,Jessica Shepard,13.5,WNBA
+3,Single Stat,Blks+Stls,Naz Hillmon,1.5,WNBA
+3,Single Stat,Rebounds,Naz Hillmon,6.5,WNBA
+3,Single Stat,Points,Sylvia Fowles,14.5,WNBA
+3,Single Stat,Pts+Rebs+Asts,Jessica Shepard,15.5,WNBA
+3,Single Stat,Blks+Stls,Jessica Shepard,0.5,WNBA
+3,Single Stat,Pts+Asts,Jessica Shepard,9.5,WNBA
+3,Single Stat,Pts+Rebs,Rhyne Howard,25.5,WNBA
+3,Single Stat,Points,Jessica Shepard,6.5,WNBA
+3,Single Stat,2PT FG Made in First 6 Minutes,ATL Starters,3.0,WNBA
+3,Single Stat,Rebounds,Rhyne Howard,5.5,WNBA
+3,Single Stat,Pts+Rebs+Asts,Rhyne Howard,28.5,WNBA
+3,Single Stat,Pts+Asts,Rhyne Howard,22.5,WNBA
+3,Fantasy Score,Fantasy Score,Rhyne Howard,34.5,WNBA
+3,Single Stat,Free Throws Made,Rhyne Howard,4.0,WNBA
+3,Single Stat,Points,Rhyne Howard,19.5,WNBA
+3,Single Stat,Assists,Rhyne Howard,2.5,WNBA
+3,Single Stat,3-PT Made,Rhyne Howard,2.5,WNBA
+3,Single Stat,Pts+Rebs+Asts,Naz Hillmon,13.5,WNBA
+3,Single Stat,Rebounds,Jessica Shepard,6.5,WNBA
+3,Single Stat,Turnovers,Naz Hillmon,1.5,WNBA
+3,Single Stat,Blks+Stls,Sylvia Fowles,2.0,WNBA
+3,Single Stat,Turnovers,Erica Wheeler,2.5,WNBA
+3,Single Stat,Points,Erica Wheeler,7.5,WNBA
+3,Single Stat,Pts+Asts,Erica Wheeler,12.0,WNBA
+3,Single Stat,Pts+Rebs+Asts,Erica Wheeler,14.5,WNBA
+3,Fantasy Score,Fantasy Score,Sylvia Fowles,30.5,WNBA
+3,Single Stat,Free Throws Made,Kayla McBride,2.5,WNBA
+3,Single Stat,Points,Kayla McBride,13.5,WNBA
+3,Single Stat,Pts+Rebs+Asts,Kayla McBride,18.5,WNBA
+3,Fantasy Score,Fantasy Score,Kayla McBride,22.5,WNBA
+3,Single Stat,Pts+Rebs,Kayla McBride,16.5,WNBA
+3,Single Stat,Pts+Asts,Kayla McBride,15.5,WNBA
+3,Single Stat,Pts+Rebs+Asts,Sylvia Fowles,25.5,WNBA
+3,Single Stat,Pts+Rebs,Sylvia Fowles,24.5,WNBA
+3,Fantasy Score,Fantasy Score,Cheyenne Parker,26.5,WNBA
+3,Single Stat,Blks+Stls,Cheyenne Parker,1.5,WNBA
+3,Single Stat,Free Throws Made,Cheyenne Parker,1.5,WNBA
+3,Single Stat,Pts+Rebs,Cheyenne Parker,20.5,WNBA
+3,Single Stat,Turnovers,Cheyenne Parker,2.5,WNBA
+3,Single Stat,Points,Cheyenne Parker,13.5,WNBA
+3,Single Stat,Rebounds,Cheyenne Parker,6.5,WNBA
+3,Single Stat,Pts+Rebs+Asts,Cheyenne Parker,21.5,WNBA
+3,Single Stat,Free Throws Made in First 6 Minutes,MIN Starters,1.5,WNBA
+3,Single Stat,3PT Made in First 6 Minutes,MIN Starters,1.0,WNBA
+3,Single Stat,2PT FG Made in First 6 Minutes,MIN Starters,3.0,WNBA
+3,Single Stat,Rebounds,Sylvia Fowles,9.5,WNBA
+3,Single Stat,Turnovers,Sylvia Fowles,2.0,WNBA
+3,Single Stat,Assists,Erica Wheeler,4.0,WNBA
+3,Fantasy Score,Fantasy Score,Erica Wheeler,17.0,WNBA
+3,Fantasy Score,Fantasy Score,Naz Hillmon,18.5,WNBA
+3,Single Stat,Blks+Stls,Aari McDonald,1.5,WNBA
+3,Single Stat,Turnovers,Aari McDonald,2.0,WNBA
+3,Single Stat,Points,Moriah Jefferson,8.5,WNBA
+3,Single Stat,Points,Aari McDonald,11.5,WNBA
+3,Single Stat,3PT Made in First 6 Minutes,ATL Starters,1.0,WNBA
+3,Single Stat,Pts+Rebs+Asts,Aari McDonald,16.5,WNBA
+3,Single Stat,Free Throws Made in First 6 Minutes,ATL Starters,1.5,WNBA
+3,Single Stat,Pts+Rebs+Asts,Moriah Jefferson,15.5,WNBA
+3,Single Stat,Assists,Moriah Jefferson,4.5,WNBA
+3,Single Stat,Pts+Asts,Moriah Jefferson,13.5,WNBA
+3,Single Stat,Turnovers,Moriah Jefferson,2.0,WNBA
+3,Fantasy Score,Fantasy Score,Aari McDonald,19.5,WNBA
+3,Fantasy Score,Fantasy Score,Moriah Jefferson,21.5,WNBA
+3,Single Stat,Free Throws Made,Aari McDonald,2.5,WNBA
+193,Single Stat,Points,Cheyenne Parker,6.5,WNBA1H
+193,Single Stat,Points,Aari McDonald,5.5,WNBA1H
+193,Single Stat,Pts+Rebs+Asts,Aari McDonald,8.5,WNBA1H
+193,Single Stat,Pts+Rebs+Asts,Sylvia Fowles,13.5,WNBA1H
+193,Single Stat,Points,Naz Hillmon,3.5,WNBA1H
+193,Fantasy Score,Fantasy Score,Naz Hillmon,9.5,WNBA1H
+193,Single Stat,Pts+Rebs+Asts,Naz Hillmon,6.5,WNBA1H
+193,Fantasy Score,Fantasy Score,Moriah Jefferson,10.5,WNBA1H
+193,Fantasy Score,Fantasy Score,Aari McDonald,9.5,WNBA1H
+193,Single Stat,Pts+Rebs+Asts,Cheyenne Parker,9.5,WNBA1H
+193,Fantasy Score,Fantasy Score,Kayla McBride,11.5,WNBA1H
+193,Fantasy Score,Fantasy Score,Sylvia Fowles,16.0,WNBA1H
+193,Single Stat,Points,Kayla McBride,6.5,WNBA1H
+193,Single Stat,Pts+Rebs+Asts,Kayla McBride,9.5,WNBA1H
+193,Single Stat,Pts+Rebs+Asts,Jessica Shepard,7.0,WNBA1H
+193,Fantasy Score,Fantasy Score,Jessica Shepard,8.5,WNBA1H
+193,Single Stat,Points,Jessica Shepard,3.5,WNBA1H
+193,Single Stat,Points,Sylvia Fowles,7.5,WNBA1H
+193,Fantasy Score,Fantasy Score,Rhyne Howard,17.5,WNBA1H
+193,Single Stat,Pts+Rebs+Asts,Rhyne Howard,14.5,WNBA1H
+193,Single Stat,Pts+Rebs+Asts,Moriah Jefferson,7.5,WNBA1H
+193,Single Stat,Points,Rhyne Howard,9.5,WNBA1H
+193,Fantasy Score,Fantasy Score,Erica Wheeler,8.5,WNBA1H
+193,Single Stat,Points,Erica Wheeler,3.5,WNBA1H
+193,Single Stat,Pts+Rebs+Asts,Erica Wheeler,7.5,WNBA1H
+193,Fantasy Score,Fantasy Score,Cheyenne Parker,12.5,WNBA1H
+193,Single Stat,Points,Moriah Jefferson,4.5,WNBA1H
+4,Single Stat,NASCAR Points,Kyle Busch,37.5,
+4,Fantasy Score,Fantasy Score,Kyle Busch,56.5,
+4,Single Stat,Laps Led,Kyle Busch,42.5,
+4,Single Stat,Fastest Laps,Kyle Busch,24.5,
+172,Single Stat,Rush Yards,TreVeyon Henderson,1265.5,
+172,Single Stat,Pass Yards,CJ Stroud,3732.5,
+172,Single Stat,Receiving Yards,Jaxon Smith-Njigba,1436.5,
+4,Fantasy Score,Fantasy Score,Denny Hamlin,50.5,
+4,Single Stat,NASCAR Points,Denny Hamlin,36.5,
+4,Single Stat,Cars Passed (Net),Denny Hamlin,4.5,
+172,Single Stat,Rush Yards,Bijan Robinson,1162.5,
+172,Single Stat,Receiving Yards,Jordan Addison,1169.5,
+172,Single Stat,Pass Yards,Bryce Young,3781.5,
+172,Single Stat,Pass Yards,Will Rogers,4500.5,
+4,Fantasy Score,Fantasy Score,Chase Elliott,48.5,
+4,Single Stat,NASCAR Points,Chase Elliott,34.5,
+4,Single Stat,Cars Passed (Net),Chase Elliott,7.5,
+172,Single Stat,Rush Yards,Braelon Allen,1328.5,
+172,Single Stat,Receiving Yards,A.T. Perry,1144.5,
+172,Single Stat,Rush Yards,Sean Tucker,1175.5,
+172,Single Stat,Pass Yards,Caleb Williams,3110.5,
+4,Single Stat,NASCAR Points,Kyle Larson,35.5,
+4,Fantasy Score,Fantasy Score,Kyle Larson,43.5,
+172,Single Stat,Receiving Yards,Cedric Tillman,1113.5,
+4,Single Stat,NASCAR Points,Rebounds,34.5,
+4,Single Stat,NASCAR Points,Martin Truex Jr.,34.5,
+4,Fantasy Score,Fantasy Score,Rebounds,40.5,
+4,Fantasy Score,Fantasy Score,Martin Truex Jr.,40.5,
+172,Single Stat,Rush Yards,Zach Charbonnet,1114.5,
+172,Single Stat,Pass Yards,Sam Hartman,3147.5,
+172,Single Stat,Receiving Yards,Jayden Reed,1050.5,
+4,Single Stat,NASCAR Points,Tyler Reddick,33.5,
+4,Fantasy Score,Fantasy Score,Tyler Reddick,36.5,
+172,Single Stat,Rush Yards,Travis Dye,1101.5,
+172,Single Stat,Receiving Yards,Xavier Worthy,1078.5,
+172,Single Stat,Pass Yards,Sean Clifford,3071.5,
+4,Fantasy Score,Fantasy Score,Bubba Wallace Jr.,42.5,
+4,Single Stat,NASCAR Points,Bubba Wallace Jr.,33.5,
+4,Single Stat,Laps Led,Bubba Wallace Jr.,25.5,
+4,Single Stat,Fastest Laps,Bubba Wallace Jr.,15.5,
+172,Single Stat,Pass Yards,Hendon Hooker,2968.5,
+172,Single Stat,Rush Yards,Deuce Vaughn,1320.5,
+172,Single Stat,Receiving Yards,Josh Downs,1073.5,
+4,Fantasy Score,Fantasy Score,Christopher Bell,37.5,
+4,Single Stat,NASCAR Points,Christopher Bell,33.5,
+172,Single Stat,Pass Yards,Taulia Tagovailoa,3689.5,
+172,Single Stat,Receiving Yards,Kayshon Boutte,978.5,
+172,Single Stat,Pass Yards,Tyler Van Dyke,3098.5,
+172,Single Stat,Rush Yards,Jahmyr Gibbs,901.5,
+4,Fantasy Score,Fantasy Score,Ross Chastain,51.5,
+4,Single Stat,NASCAR Points,Ross Chastain,32.5,
+4,Single Stat,Cars Passed (Net),Ross Chastain,14.5,
+172,Single Stat,Receiving Yards,Nathaniel Dell,1043.5,
+172,Single Stat,Receiving Yards,Parker Washington,939.5,
+4,Single Stat,NASCAR Points,Ryan Blaney,32.5,
+4,Fantasy Score,Fantasy Score,Ryan Blaney,52.5,
+4,Single Stat,Cars Passed (Net),Ryan Blaney,16.5,
+4,Fantasy Score,Fantasy Score,Rush Yards,32.5,
+4,Fantasy Score,Fantasy Score,Joey Logano,32.5,
+4,Single Stat,NASCAR Points,Rush Yards,31.5,
+4,Single Stat,NASCAR Points,Joey Logano,31.5,
+172,Single Stat,Rush Yards,Rasheen Ali,1302.5,
+172,Single Stat,Pass Yards,Dillon Gabriel,3265.5,
+172,Single Stat,Rush Yards,Blake Corum,1127.5,
+172,Single Stat,Pass Yards,Devin Leary,3371.5,
+172,Single Stat,Receiving Yards,Marvin Harrison,906.5,
+4,Fantasy Score,Fantasy Score,William Byron,44.5,
+4,Single Stat,NASCAR Points,William Byron,30.5,
+4,Single Stat,Cars Passed (Net),William Byron,10.5,
+172,Single Stat,Receiving Yards,Jermaine Burton,889.5,
+172,Single Stat,Pass Yards,Brennan Armstrong,3333.5,
+172,Single Stat,Rush Yards,Zach Evans,1111.5,
+4,Single Stat,NASCAR Points,Kevin Harvick,30.5,
+4,Fantasy Score,Fantasy Score,Kevin Harvick,40.5,
+4,Single Stat,Cars Passed (Net),Kevin Harvick,5.5,
+172,Single Stat,Pass Yards,Jake Haener,3823.5,
+172,Single Stat,Receiving Yards,Jaylen Cropper,923.5,
+4,Single Stat,NASCAR Points,Daniel Suarez,30.5,
+4,Fantasy Score,Fantasy Score,Daniel Suarez,38.5,
+4,Single Stat,Cars Passed (Net),Daniel Suarez,4.5,
+172,Single Stat,Pass Yards,Spencer Rattler,2775.5,
+172,Single Stat,Receiving Yards,Tyrone Tracy,945.5,
+172,Single Stat,Pass Yards,Clayton Tune,3193.5,
+4,Fantasy Score,Fantasy Score,Alex Bowman,48.5,
+4,Single Stat,NASCAR Points,Alex Bowman,28.5,
+4,Single Stat,Cars Passed (Net),Alex Bowman,17.5,
+4,Single Stat,NASCAR Points,Erik Jones,29.5,
+4,Fantasy Score,Fantasy Score,Erik Jones,31.5,
+172,Single Stat,Receiving Yards,Michael Mayer,871.5,
+172,Single Stat,Pass Yards,Aidan O'Connell,3949.5,
+172,Single Stat,Receiving Yards,Brock Bowers,814.5,
+159,Fantasy Score,Fantasy Score,supamen,79.5,
+159,Fantasy Score,Fantasy Score,supamen,39.5,
+4,Single Stat,NASCAR Points,Austin Dillon,27.5,
+4,Fantasy Score,Fantasy Score,Ty Gibbs,31.5,
+4,Single Stat,NASCAR Points,Ty Gibbs,27.5,
+4,Single Stat,NASCAR Points,Austin Cindric,26.5,
+4,Fantasy Score,Fantasy Score,Austin Cindric,22.5,
+4,Single Stat,NASCAR Points,Chase Briscoe,26.5,
+159,Fantasy Score,Fantasy Score,babybay,80.5,
+159,Fantasy Score,Fantasy Score,babybay,40.5,
+194,Single Stat,Points,A'ja Wilson,9.5,
+194,Fantasy Score,Fantasy Score,A'ja Wilson,21.5,
+194,Single Stat,Pts+Rebs+Asts,A'ja Wilson,15.5,
+159,Fantasy Score,Fantasy Score,Asuna,80.0,
+159,Fantasy Score,Fantasy Score,Asuna,40.0,
+194,Single Stat,Points,Breanna Stewart,10.5,
+194,Single Stat,Pts+Rebs+Asts,Breanna Stewart,16.5,
+194,Fantasy Score,Fantasy Score,Breanna Stewart,19.5,
+159,Fantasy Score,Fantasy Score,bang,75.0,
+159,Fantasy Score,Fantasy Score,bang,37.5,
+194,Fantasy Score,Fantasy Score,Kelsey Plum,16.5,
+194,Single Stat,Pts+Rebs+Asts,Kelsey Plum,14.5,
+194,Single Stat,Points,Kelsey Plum,10.5,
+194,Single Stat,Points,Jewell Loyd,7.5,
+194,Fantasy Score,Fantasy Score,Jewell Loyd,12.5,
+194,Single Stat,Pts+Rebs+Asts,Jewell Loyd,10.5,
+159,Fantasy Score,Fantasy Score,jawgemo,84.0,
+159,Fantasy Score,Fantasy Score,jawgemo,42.0,
+194,Single Stat,Points,Tina Charles,6.5,
+194,Fantasy Score,Fantasy Score,Tina Charles,13.5,
+194,Single Stat,Pts+Rebs+Asts,Tina Charles,11.5,
+159,Fantasy Score,Fantasy Score,C0M,73.5,
+159,Fantasy Score,Fantasy Score,C0M,36.5,
+194,Fantasy Score,Fantasy Score,Jackie Young,13.5,
+194,Single Stat,Points,Jackie Young,7.5,
+194,Single Stat,Pts+Rebs+Asts,Jackie Young,11.5,
+194,Single Stat,Points,Sue Bird,3.5,
+194,Single Stat,Pts+Rebs+Asts,Sue Bird,7.5,
+194,Fantasy Score,Fantasy Score,Sue Bird,9.5,
+159,Fantasy Score,Fantasy Score,s0m,77.5,
+159,Fantasy Score,Fantasy Score,s0m,39.0,
+194,Fantasy Score,Fantasy Score,Chelsea Gray,14.5,
+194,Single Stat,Points,Chelsea Gray,6.5,
+194,Single Stat,Pts+Rebs+Asts,Chelsea Gray,11.5,
+194,Fantasy Score,Fantasy Score,Gabby Williams,10.5,
+194,Single Stat,Points,Gabby Williams,3.5,
+194,Single Stat,Pts+Rebs+Asts,Gabby Williams,6.5,
+159,Fantasy Score,Fantasy Score,tex,78.0,
+159,Fantasy Score,Fantasy Score,tex,39.0,
+194,Single Stat,Pts+Rebs+Asts,Kiah Stokes,4.5,
+194,Single Stat,Points,Kiah Stokes,2.5,
+194,Fantasy Score,Fantasy Score,Kiah Stokes,6.5,
+194,Single Stat,Points,Nneka Ogwumike,9.5,
+194,Fantasy Score,Fantasy Score,Nneka Ogwumike,15.5,
+194,Single Stat,Pts+Rebs+Asts,Nneka Ogwumike,13.5,
+194,Single Stat,Pts+Rebs+Asts,Elena Delle Donne,13.5,
+194,Fantasy Score,Fantasy Score,Elena Delle Donne,17.5,
+194,Single Stat,Points,Elena Delle Donne,9.5,
+194,Fantasy Score,Fantasy Score,Katie Lou Samuelson,9.5,
+194,Single Stat,Pts+Rebs+Asts,Katie Lou Samuelson,7.5,
+194,Single Stat,Points,Katie Lou Samuelson,4.5,
+194,Fantasy Score,Fantasy Score,Ariel Atkins,12.5,
+194,Single Stat,Pts+Rebs+Asts,Ariel Atkins,9.5,
+194,Single Stat,Points,Ariel Atkins,7.5,
+194,Single Stat,Pts+Rebs+Asts,Brittney Sykes,10.5,
+194,Fantasy Score,Fantasy Score,Brittney Sykes,13.5,
+194,Single Stat,Points,Brittney Sykes,6.5,
+194,Fantasy Score,Fantasy Score,Natasha Cloud,13.5,
+194,Single Stat,Points,Natasha Cloud,5.5,
+194,Single Stat,Pts+Rebs+Asts,Natasha Cloud,10.5,
+194,Single Stat,Pts+Rebs+Asts,Jordin Canada,8.5,
+194,Fantasy Score,Fantasy Score,Jordin Canada,11.0,
+194,Single Stat,Points,Jordin Canada,4.5,
+194,Single Stat,Pts+Rebs+Asts,Shakira Austin,8.5,
+194,Fantasy Score,Fantasy Score,Shakira Austin,11.5,
+194,Single Stat,Points,Shakira Austin,4.5,
+194,Single Stat,Points,Alysha Clark,3.5,
+194,Fantasy Score,Fantasy Score,Alysha Clark,8.5,
+194,Single Stat,Pts+Rebs+Asts,Alysha Clark,6.5,
