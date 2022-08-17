@@ -9,15 +9,22 @@ import math
 import pandas as pd
 
 computeWords = Compute()
-
+    
 def myClick():
     try:
-        file = fileGrabber()
+        sport = entry3.get()
+        if len(sport) < 1:
+            sport = None
+        else:
+            sport = sport
+        file = fileGrabber(sport)
         myLabel4['text'] = "Success! Saved to:",os.getcwd()
         file.to_csv('PrizePicksData.csv', index = False)
+        entry3.delete(0, END)
     except:
         myLabel4['text'] = "Error Occurred! No internet/Code error."
         myLabel4['fg'] = "red"
+        entry3.delete(0, END)
 
 def clickUrl(url):
          webbrowser.open_new_tab(url)  
@@ -95,6 +102,7 @@ myButton5 = Button(myFrame3, text="Compute", command=compute, state='normal', wi
 myLabel2 = Label(myFrame, text="https://api.prizepicks.com/projections", cursor='hand2', fg='#86c5da', background='#313D56')
 myLabel2.bind("<Button-1>", lambda e: clickUrl('https://api.prizepicks.com/projections'))
 myLabel = Label(myFrame, text="Info gathered from:", background='#313D56', fg='white')
+entry3 = Entry(master=myFrame, width=10, bg='#343434', fg='silver')
 myLabel4 = Label(myFrame, text='', fg='green', background='#313D56')
 myButton = Button(myFrame, text="Click To Make CSV", command=myClick, state='normal', bg='#677BAD', fg='white')
 
@@ -111,6 +119,7 @@ entry.grid(row=0, column=0, padx= 10, pady=10)
 myButton2.grid(row=0, column=1, padx= 10, pady=10)
 myButton3.grid(row=1, column=2, padx= 10, pady=10)
 myButton4.grid(row=1, column=2, padx= 10, pady=10, sticky='S')
+entry3.grid(row=4, column=0, padx= 10, pady=10)
 
 myListbox = Listbox(myFrame2, width=40, bg='#343434', fg='silver', selectbackground='#00008b', height=8)
 myListbox.grid(row=1, column=0, columnspan=2 ,padx= 10, pady=10, sticky = 'W')
@@ -128,7 +137,7 @@ myLabel5.grid(row=0, column=1, padx= 0, pady=0, sticky = 'W')
 myLabel.grid(row=0, column=0, padx= 10, pady=10)
 myLabel2.grid(row=2, column=0, padx= 10, pady=10)
 myLabel4.grid(row=3, column=0, padx= 10, pady=10)
-myButton.grid(row=4, column=0, padx= 10, pady=10)
+myButton.grid(row=5, column=0, padx= 10, pady=10)
 
 root.mainloop()
 

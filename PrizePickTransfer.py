@@ -2,7 +2,7 @@ import pandas as pd
 import json 
 from urllib.request import Request, urlopen
 
-def fileGrabber():
+def fileGrabber(sportName=None):
         req = Request('https://api.prizepicks.com/projections', headers={'User-Agent': 'Mozilla/5.0'})
         dataFile = json.loads(urlopen(req).read())
         '''
@@ -69,4 +69,9 @@ def fileGrabber():
         finalFrame = finalFrame.sort_values(by=['League'])
         finalFrame = finalFrame[['LID', 'Projection Type', 'Stat Type', 'Name','OverUnder', 'League']]
         
-        return finalFrame
+        if sportName == None:
+                return finalFrame
+        else:
+                finalFrame = finalFrame.loc[finalFrame['League'] == sportName]
+                return finalFrame
+        
