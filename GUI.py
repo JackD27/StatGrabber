@@ -6,7 +6,6 @@ import os
 from variables import Compute
 import itertools
 import math
-import pandas as pd
 
 computeWords = Compute()
     
@@ -15,11 +14,25 @@ def myClick():
         sport = entry3.get()
         if len(sport) < 1:
             sport = None
-        else:
-            sport = sport
         file = fileGrabber(sport)
+        myLabel4['fg'] = "green"
         myLabel4['text'] = "Success! Saved to:",os.getcwd()
         file.to_csv('PrizePicksData.csv', index = False)
+        entry3.delete(0, END)
+    except:
+        myLabel4['text'] = "Error Occurred! No internet/Code error."
+        myLabel4['fg'] = "red"
+        entry3.delete(0, END)
+        
+def myClick2():
+    try:
+        sport = entry3.get()
+        if len(sport) < 1:
+            sport = None
+        file2 = fileGrabber2(sport)
+        myLabel4['fg'] = "green"
+        myLabel4['text'] = "Success! Saved to:",os.getcwd()
+        file2.to_csv('UnderdogFrame.csv', index = False)
         entry3.delete(0, END)
     except:
         myLabel4['text'] = "Error Occurred! No internet/Code error."
@@ -82,7 +95,7 @@ root = Tk()
 root.title("Prize Picks!!!")
 
 
-root.geometry('690x550')
+root.geometry('690x600')
 root.configure(bg='#293145')
 
 myFrame = Frame(root, background='#313D56')
@@ -99,12 +112,12 @@ myButton4 = Button(myFrame2, text="DELETE ALL", command=delAll, state='normal', 
 myButton5 = Button(myFrame3, text="Compute", command=compute, state='normal', width=10, bg='#677BAD', fg='white')
 #677BAD
 
-myLabel2 = Label(myFrame, text="https://api.prizepicks.com/projections", cursor='hand2', fg='#86c5da', background='#313D56')
-myLabel2.bind("<Button-1>", lambda e: clickUrl('https://api.prizepicks.com/projections'))
+myLabel2 = Label(myFrame, text="PrizePicks and UnderDogFantasy", fg='#86c5da', background='#313D56')
 myLabel = Label(myFrame, text="Info gathered from:", background='#313D56', fg='white')
 entry3 = Entry(master=myFrame, width=10, bg='#343434', fg='silver')
 myLabel4 = Label(myFrame, text='', fg='green', background='#313D56')
-myButton = Button(myFrame, text="Click To Make CSV", command=myClick, state='normal', bg='#677BAD', fg='white')
+myButton = Button(myFrame, text="Click for PrizePick CSV", command=myClick, state='normal', bg='#677BAD', fg='white')
+myButton6 = Button(myFrame, text="Click for UnderDog CSV", command=myClick2, state='normal', bg='#677BAD', fg='white')
 
 
 
@@ -138,6 +151,7 @@ myLabel.grid(row=0, column=0, padx= 10, pady=10)
 myLabel2.grid(row=2, column=0, padx= 10, pady=10)
 myLabel4.grid(row=3, column=0, padx= 10, pady=10)
 myButton.grid(row=5, column=0, padx= 10, pady=10)
+myButton6.grid(row=6, column=0, padx= 10, pady=10)
 
 root.mainloop()
 
