@@ -20,7 +20,7 @@ def myClick():
         file.to_csv('PrizePicksDataFrame.csv', index = False)
         entry3.delete(0, END)
     except:
-        myLabel4['text'] = "Error Occurred! No internet/Code error."
+        myLabel4['text'] = "Error Occurred! Make sure PrizePicksdata.json exists."
         myLabel4['fg'] = "red"
         entry3.delete(0, END)
         
