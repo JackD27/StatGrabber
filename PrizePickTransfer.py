@@ -4,9 +4,16 @@ from urllib.request import Request, urlopen
 
 
 def fileGrabber(sportName=None):
-    req = Request('https://api.prizepicks.com/projections',
-                  headers={'User-Agent': 'Mozilla/5.0'})
-    dataFile = json.loads(urlopen(req).read())
+
+    # hdr = {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36"}
+
+    # req = Request('https://api.prizepicks.com/projections',
+    #               headers=hdr)
+    
+    file = open('PrizePicksdata.json', encoding='utf-8')
+    
+    dataFile = json.load(file)
+
     '''
         file = open(fileName)
         dataFile = json.loads(file.read())
@@ -69,7 +76,7 @@ def fileGrabber(sportName=None):
     # endregion
     finalFrame = finalFrame.sort_values(by=['League'])
     finalFrame = finalFrame[['LID', 'Projection Type',
-        'Stat Type', 'Name', 'OverUnder', 'League']]
+        'Name', 'Stat Type', 'OverUnder', 'League']]
 
     if sportName == None:
         return finalFrame
@@ -104,7 +111,7 @@ def fileGrabber2(sportName2=None):
         nameFrame['Name'] = nameFrame['First Name'] + " " + nameFrame['Last Name']
 
         result = pd.merge(underdogFrame, nameFrame, on=["Name"])
-        result = result[['Name', 'OverUnder', 'Stat Type', 'Sport']]
+        result = result[['Name', 'Stat Type', 'OverUnder', 'Sport']]
 
         if sportName2 == None:
                 return result

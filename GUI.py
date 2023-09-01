@@ -17,7 +17,7 @@ def myClick():
         file = fileGrabber(sport)
         myLabel4['fg'] = "green"
         myLabel4['text'] = "Success! Saved to:",os.getcwd()
-        file.to_csv('PrizePicksData.csv', index = False)
+        file.to_csv('PrizePicksDataFrame.csv', index = False)
         entry3.delete(0, END)
     except:
         myLabel4['text'] = "Error Occurred! No internet/Code error."
@@ -32,7 +32,7 @@ def myClick2():
         file2 = fileGrabber2(sport)
         myLabel4['fg'] = "green"
         myLabel4['text'] = "Success! Saved to:",os.getcwd()
-        file2.to_csv('UnderdogFrame.csv', index = False)
+        file2.to_csv('UnderDogDataFrame.csv', index = False)
         entry3.delete(0, END)
     except:
         myLabel4['text'] = "Error Occurred! No internet/Code error."
@@ -92,7 +92,7 @@ def compute():
         
 
 root = Tk()
-root.title("Prize Picks!!!")
+root.title("Stat Grabber!!!")
 
 
 root.geometry('690x600')
@@ -106,18 +106,19 @@ entry = Entry(master=myFrame2, bg='#343434', fg='silver')
 entry2 = Entry(master=myFrame3, width=10, bg='#343434', fg='silver')
 myLabel5 = Label(myFrame3, text='', fg='red', background='#313D56')
 
-myButton2 = Button(myFrame2, text="ADD", command=addName, state='normal', width=10, bg='#677BAD', fg='white')
-myButton3 = Button(myFrame2, text="DELETE", command=delName, state='normal', width=10, bg='#677BAD', fg='white')
-myButton4 = Button(myFrame2, text="DELETE ALL", command=delAll, state='normal', width=10, bg='#677BAD', fg='white')
-myButton5 = Button(myFrame3, text="Compute", command=compute, state='normal', width=10, bg='#677BAD', fg='white')
+myButton2 = Button(myFrame2, text="ADD", command=addName, state='normal', cursor='hand2', width=10, bg='#677BAD', fg='white')
+myButton3 = Button(myFrame2, text="DELETE", command=delName, state='normal', cursor='hand2', width=10, bg='#677BAD', fg='white')
+myButton4 = Button(myFrame2, text="DELETE ALL", command=delAll, state='normal', cursor='hand2', width=10, bg='#677BAD', fg='white')
+myButton5 = Button(myFrame3, text="Compute", command=compute, state='normal', cursor='hand2', width=10, bg='#677BAD', fg='white')
 #677BAD
 
 myLabel2 = Label(myFrame, text="PrizePicks and UnderDogFantasy", fg='#86c5da', background='#313D56')
-myLabel = Label(myFrame, text="Info gathered from:", background='#313D56', fg='white')
+myLabel = Label(myFrame, text="Click Link and paste into: PrizePicksdata.json", cursor='hand2', background='#313D56', fg='white')
+myLabel.bind("<Button-1>", lambda e:clickUrl('https://api.prizepicks.com/projections'))
 entry3 = Entry(master=myFrame, width=10, bg='#343434', fg='silver')
 myLabel4 = Label(myFrame, text='', fg='green', background='#313D56')
-myButton = Button(myFrame, text="Click for PrizePick CSV", command=myClick, state='normal', bg='#677BAD', fg='white')
-myButton6 = Button(myFrame, text="Click for UnderDog CSV", command=myClick2, state='normal', bg='#677BAD', fg='white')
+myButton = Button(myFrame, text="Click for PrizePick CSV", command=myClick, state='normal', cursor='hand2', bg='#677BAD', fg='white')
+myButton6 = Button(myFrame, text="Click for UnderDog CSV", command=myClick2, state='normal', cursor='hand2', bg='#677BAD', fg='white')
 
 
 
