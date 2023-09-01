@@ -1,4 +1,3 @@
-dist
 *.csv
 build
 *.spec
